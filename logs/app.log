@@ -1,0 +1,8 @@
+25-08-2021 14:26:10 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+25-08-2021 14:43:02 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+25-08-2021 14:48:50 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+25-08-2021 14:51:45 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+25-08-2021 14:51:45 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+25-08-2021 14:51:45 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+25-08-2021 14:52:24 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+25-08-2021 14:52:25 - [INFO] -  exploration - (exploration.py).countplots(line 16) - countplots successfully.
