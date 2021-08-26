@@ -1,21 +1,20 @@
- 
-name: Feature_selection
-on: [push]
+name: Feature 
+on:
+  push:
+    branches:
+      - main
 jobs:
   run:
     runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: [3.9, 3.8]
     steps:
       - uses: actions/checkout@v2
       - uses: iterative/setup-cml@v1
-      - name: Train model
-        run: |
-          pip3 install -r requirements.txt
-      - name: Write CML report
+      - name: Changes
         env:
-          GDRIVE_CREDENTIALS_DATA: ${{ secrets.GDRIVE_CREDENTIALS_DATA }}
+          REPO_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          # Post reports as comments in GitHub PRs
-          dvc pull data/data.csv --run-cache
-          echo "## Data pulled from dvc remote" >> report.md
-          # cat results.txt >> report.md
+          echo "# LATEST REPO UPDATES" >> report.md
           cml-send-comment report.md
