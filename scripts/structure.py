@@ -6,6 +6,12 @@ class Structure:
         self.logger = Logger().get_logger(__name__)
     
     def drawgraph (self,sm):
+        """Draws Causal graph
+    Args:
+        structural_model (from_pandas_lasso): Structural model of causalnex
+    Returns:
+        plot_structure
+    """
         try:
             sm.remove_edges_below_threshold(0.8)
             viz = plot_structure( sm, graph_attributes={"scale": "2.0","size": "2.5"}, all_node_attributes=NODE_STYLE.WEAK, all_edge_attributes=EDGE_STYLE.WEAK)
