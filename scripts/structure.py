@@ -1,4 +1,3 @@
-from IPython.display import Image
 from causalnex.plots import plot_structure, NODE_STYLE, EDGE_STYLE
 from logger import Logger
 class Structure:
@@ -11,8 +10,7 @@ class Structure:
             sm.remove_edges_below_threshold(0.8)
             viz = plot_structure( sm, graph_attributes={"scale": "2.0","size": "2.5"}, all_node_attributes=NODE_STYLE.WEAK, all_edge_attributes=EDGE_STYLE.WEAK)
             self.logger.info(f'plots causal graph successfully')
-            Image(viz.draw(format='png'))
-            
+            return viz
         
         except Exception:
             self.logger.exception('plots causal graph  failed.')
