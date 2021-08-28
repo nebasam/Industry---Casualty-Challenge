@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 from sklearn.preprocessing import LabelEncoder
-from logger import logger
+from logger import Logger
 
 def check_numeric(df: pd.DataFrame) -> list:
     """[summary]
@@ -26,6 +26,7 @@ def label_encode(df: pd.DataFrame, non_numeric_columns: list) -> pd.DataFrame:
     Returns:
         pd.DataFrame: Label encoded DataFrame
     """
+    logger = Logger().get_logger(__name__)
     try:
         le = LabelEncoder()
         for col in non_numeric_columns:
