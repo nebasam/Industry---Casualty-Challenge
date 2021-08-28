@@ -1,10 +1,12 @@
 from causalnex.structure.notears import from_pandas, from_pandas_lasso
+from logger import Logger
 
 class Constraints:
     """
     Aids construct manual interference on structural model
     """
-
+    def __init__(self):
+        self.logger = Logger().get_logger(__name__)
     def __init__(self, structural_model:from_pandas_lasso = None):
         self.structural_model = structural_model
 
