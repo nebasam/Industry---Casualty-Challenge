@@ -1,0 +1,223 @@
+25-08-2021 14:26:10 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+25-08-2021 14:43:02 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+25-08-2021 14:48:50 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+25-08-2021 14:51:45 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+25-08-2021 14:51:45 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+25-08-2021 14:51:45 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+25-08-2021 14:52:24 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+25-08-2021 14:52:25 - [INFO] -  exploration - (exploration.py).countplots(line 16) - countplots successfully.
+25-08-2021 16:09:26 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+25-08-2021 16:09:26 - [INFO] -  exploration - (exploration.py).countplots(line 16) - countplots successfully.
+25-08-2021 16:09:27 - [ERROR] -  exploration - (exploration.py).violinplots(line 28) - countplots failed.
+Traceback (most recent call last):
+  File "/home/neba/Desktop/Industry - Casualty Challenge/scripts/exploration.py", line 24, in violinplots
+    sns.violinplot(data,x, y,hue, split=True, inner="quart")
+  File "/home/neba/.conda/envs/feature/lib/python3.9/site-packages/seaborn/_decorators.py", line 46, in inner_f
+    return f(**kwargs)
+  File "/home/neba/.conda/envs/feature/lib/python3.9/site-packages/seaborn/categorical.py", line 2400, in violinplot
+    plotter = _ViolinPlotter(x, y, hue, data, order, hue_order,
+  File "/home/neba/.conda/envs/feature/lib/python3.9/site-packages/seaborn/categorical.py", line 522, in __init__
+    self.establish_variables(x, y, hue, data, orient, order, hue_order)
+  File "/home/neba/.conda/envs/feature/lib/python3.9/site-packages/seaborn/categorical.py", line 144, in establish_variables
+    x = data.get(x, x)
+AttributeError: 'str' object has no attribute 'get'
+25-08-2021 16:10:18 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+25-08-2021 16:10:18 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+25-08-2021 16:10:18 - [INFO] -  exploration - (exploration.py).countplots(line 16) - countplots successfully.
+25-08-2021 16:10:18 - [INFO] -  exploration - (exploration.py).countplots(line 16) - countplots successfully.
+25-08-2021 16:10:19 - [ERROR] -  exploration - (exploration.py).violinplots(line 28) - countplots failed.
+Traceback (most recent call last):
+  File "/home/neba/Desktop/Industry - Casualty Challenge/scripts/exploration.py", line 24, in violinplots
+    sns.violinplot(data,x, y,hue, split=True, inner="quart")
+  File "/home/neba/.conda/envs/feature/lib/python3.9/site-packages/seaborn/_decorators.py", line 46, in inner_f
+    return f(**kwargs)
+  File "/home/neba/.conda/envs/feature/lib/python3.9/site-packages/seaborn/categorical.py", line 2400, in violinplot
+    plotter = _ViolinPlotter(x, y, hue, data, order, hue_order,
+  File "/home/neba/.conda/envs/feature/lib/python3.9/site-packages/seaborn/categorical.py", line 522, in __init__
+    self.establish_variables(x, y, hue, data, orient, order, hue_order)
+  File "/home/neba/.conda/envs/feature/lib/python3.9/site-packages/seaborn/categorical.py", line 144, in establish_variables
+    x = data.get(x, x)
+AttributeError: 'str' object has no attribute 'get'
+25-08-2021 16:10:19 - [ERROR] -  exploration - (exploration.py).violinplots(line 28) - countplots failed.
+Traceback (most recent call last):
+  File "/home/neba/Desktop/Industry - Casualty Challenge/scripts/exploration.py", line 24, in violinplots
+    sns.violinplot(data,x, y,hue, split=True, inner="quart")
+  File "/home/neba/.conda/envs/feature/lib/python3.9/site-packages/seaborn/_decorators.py", line 46, in inner_f
+    return f(**kwargs)
+  File "/home/neba/.conda/envs/feature/lib/python3.9/site-packages/seaborn/categorical.py", line 2400, in violinplot
+    plotter = _ViolinPlotter(x, y, hue, data, order, hue_order,
+  File "/home/neba/.conda/envs/feature/lib/python3.9/site-packages/seaborn/categorical.py", line 522, in __init__
+    self.establish_variables(x, y, hue, data, orient, order, hue_order)
+  File "/home/neba/.conda/envs/feature/lib/python3.9/site-packages/seaborn/categorical.py", line 144, in establish_variables
+    x = data.get(x, x)
+AttributeError: 'str' object has no attribute 'get'
+25-08-2021 16:10:37 - [ERROR] -  exploration - (exploration.py).violinplots(line 28) - countplots failed.
+Traceback (most recent call last):
+  File "/home/neba/Desktop/Industry - Casualty Challenge/scripts/exploration.py", line 24, in violinplots
+    sns.violinplot(data,x, y,hue, split=True, inner="quart")
+  File "/home/neba/.conda/envs/feature/lib/python3.9/site-packages/seaborn/_decorators.py", line 46, in inner_f
+    return f(**kwargs)
+  File "/home/neba/.conda/envs/feature/lib/python3.9/site-packages/seaborn/categorical.py", line 2400, in violinplot
+    plotter = _ViolinPlotter(x, y, hue, data, order, hue_order,
+  File "/home/neba/.conda/envs/feature/lib/python3.9/site-packages/seaborn/categorical.py", line 522, in __init__
+    self.establish_variables(x, y, hue, data, orient, order, hue_order)
+  File "/home/neba/.conda/envs/feature/lib/python3.9/site-packages/seaborn/categorical.py", line 144, in establish_variables
+    x = data.get(x, x)
+AttributeError: 'str' object has no attribute 'get'
+25-08-2021 16:10:37 - [ERROR] -  exploration - (exploration.py).violinplots(line 28) - countplots failed.
+Traceback (most recent call last):
+  File "/home/neba/Desktop/Industry - Casualty Challenge/scripts/exploration.py", line 24, in violinplots
+    sns.violinplot(data,x, y,hue, split=True, inner="quart")
+  File "/home/neba/.conda/envs/feature/lib/python3.9/site-packages/seaborn/_decorators.py", line 46, in inner_f
+    return f(**kwargs)
+  File "/home/neba/.conda/envs/feature/lib/python3.9/site-packages/seaborn/categorical.py", line 2400, in violinplot
+    plotter = _ViolinPlotter(x, y, hue, data, order, hue_order,
+  File "/home/neba/.conda/envs/feature/lib/python3.9/site-packages/seaborn/categorical.py", line 522, in __init__
+    self.establish_variables(x, y, hue, data, orient, order, hue_order)
+  File "/home/neba/.conda/envs/feature/lib/python3.9/site-packages/seaborn/categorical.py", line 144, in establish_variables
+    x = data.get(x, x)
+AttributeError: 'str' object has no attribute 'get'
+25-08-2021 16:10:51 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+25-08-2021 16:10:51 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+25-08-2021 16:10:51 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+25-08-2021 16:10:52 - [INFO] -  exploration - (exploration.py).countplots(line 16) - countplots successfully.
+25-08-2021 16:10:52 - [INFO] -  exploration - (exploration.py).countplots(line 16) - countplots successfully.
+25-08-2021 16:10:52 - [INFO] -  exploration - (exploration.py).countplots(line 16) - countplots successfully.
+25-08-2021 16:10:52 - [ERROR] -  exploration - (exploration.py).violinplots(line 28) - countplots failed.
+Traceback (most recent call last):
+  File "/home/neba/Desktop/Industry - Casualty Challenge/scripts/exploration.py", line 24, in violinplots
+    sns.violinplot(data,x, y,hue, split=True, inner="quart")
+  File "/home/neba/.conda/envs/feature/lib/python3.9/site-packages/seaborn/_decorators.py", line 46, in inner_f
+    return f(**kwargs)
+  File "/home/neba/.conda/envs/feature/lib/python3.9/site-packages/seaborn/categorical.py", line 2400, in violinplot
+    plotter = _ViolinPlotter(x, y, hue, data, order, hue_order,
+  File "/home/neba/.conda/envs/feature/lib/python3.9/site-packages/seaborn/categorical.py", line 522, in __init__
+    self.establish_variables(x, y, hue, data, orient, order, hue_order)
+  File "/home/neba/.conda/envs/feature/lib/python3.9/site-packages/seaborn/categorical.py", line 144, in establish_variables
+    x = data.get(x, x)
+AttributeError: 'str' object has no attribute 'get'
+25-08-2021 16:10:52 - [ERROR] -  exploration - (exploration.py).violinplots(line 28) - countplots failed.
+Traceback (most recent call last):
+  File "/home/neba/Desktop/Industry - Casualty Challenge/scripts/exploration.py", line 24, in violinplots
+    sns.violinplot(data,x, y,hue, split=True, inner="quart")
+  File "/home/neba/.conda/envs/feature/lib/python3.9/site-packages/seaborn/_decorators.py", line 46, in inner_f
+    return f(**kwargs)
+  File "/home/neba/.conda/envs/feature/lib/python3.9/site-packages/seaborn/categorical.py", line 2400, in violinplot
+    plotter = _ViolinPlotter(x, y, hue, data, order, hue_order,
+  File "/home/neba/.conda/envs/feature/lib/python3.9/site-packages/seaborn/categorical.py", line 522, in __init__
+    self.establish_variables(x, y, hue, data, orient, order, hue_order)
+  File "/home/neba/.conda/envs/feature/lib/python3.9/site-packages/seaborn/categorical.py", line 144, in establish_variables
+    x = data.get(x, x)
+AttributeError: 'str' object has no attribute 'get'
+25-08-2021 16:10:52 - [ERROR] -  exploration - (exploration.py).violinplots(line 28) - countplots failed.
+Traceback (most recent call last):
+  File "/home/neba/Desktop/Industry - Casualty Challenge/scripts/exploration.py", line 24, in violinplots
+    sns.violinplot(data,x, y,hue, split=True, inner="quart")
+  File "/home/neba/.conda/envs/feature/lib/python3.9/site-packages/seaborn/_decorators.py", line 46, in inner_f
+    return f(**kwargs)
+  File "/home/neba/.conda/envs/feature/lib/python3.9/site-packages/seaborn/categorical.py", line 2400, in violinplot
+    plotter = _ViolinPlotter(x, y, hue, data, order, hue_order,
+  File "/home/neba/.conda/envs/feature/lib/python3.9/site-packages/seaborn/categorical.py", line 522, in __init__
+    self.establish_variables(x, y, hue, data, orient, order, hue_order)
+  File "/home/neba/.conda/envs/feature/lib/python3.9/site-packages/seaborn/categorical.py", line 144, in establish_variables
+    x = data.get(x, x)
+AttributeError: 'str' object has no attribute 'get'
+25-08-2021 16:11:13 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+25-08-2021 16:11:14 - [INFO] -  exploration - (exploration.py).countplots(line 16) - countplots successfully.
+25-08-2021 16:25:02 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+25-08-2021 16:25:02 - [INFO] -  exploration - (exploration.py).countplots(line 16) - countplots successfully.
+25-08-2021 16:31:36 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+25-08-2021 16:31:36 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+25-08-2021 16:31:36 - [INFO] -  exploration - (exploration.py).countplots(line 16) - countplots successfully.
+25-08-2021 16:31:36 - [INFO] -  exploration - (exploration.py).countplots(line 16) - countplots successfully.
+25-08-2021 16:39:33 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+25-08-2021 16:39:33 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+25-08-2021 16:39:33 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+25-08-2021 16:39:34 - [INFO] -  exploration - (exploration.py).countplots(line 16) - countplots successfully.
+25-08-2021 16:39:34 - [INFO] -  exploration - (exploration.py).countplots(line 16) - countplots successfully.
+25-08-2021 16:39:34 - [INFO] -  exploration - (exploration.py).countplots(line 16) - countplots successfully.
+25-08-2021 16:40:33 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+25-08-2021 16:40:35 - [INFO] -  exploration - (exploration.py).countplots(line 16) - countplots successfully.
+25-08-2021 16:40:36 - [INFO] -  exploration - (exploration.py).violinplots(line 26) - violinplots successfully
+25-08-2021 16:42:09 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+25-08-2021 16:42:09 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+25-08-2021 16:42:10 - [INFO] -  exploration - (exploration.py).countplots(line 16) - countplots successfully.
+25-08-2021 16:42:10 - [INFO] -  exploration - (exploration.py).countplots(line 16) - countplots successfully.
+25-08-2021 16:42:11 - [INFO] -  exploration - (exploration.py).violinplots(line 26) - violinplots successfully
+25-08-2021 16:42:11 - [INFO] -  exploration - (exploration.py).violinplots(line 26) - violinplots successfully
+25-08-2021 16:42:38 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+25-08-2021 16:42:39 - [INFO] -  exploration - (exploration.py).countplots(line 16) - countplots successfully.
+25-08-2021 16:42:40 - [INFO] -  exploration - (exploration.py).violinplots(line 26) - violinplots successfully
+25-08-2021 16:44:06 - [INFO] -  exploration - (exploration.py).violinplots(line 26) - violinplots successfully
+25-08-2021 16:45:55 - [INFO] -  exploration - (exploration.py).violinplots(line 26) - violinplots successfully
+25-08-2021 16:46:13 - [INFO] -  exploration - (exploration.py).violinplots(line 26) - violinplots successfully
+25-08-2021 16:47:06 - [INFO] -  exploration - (exploration.py).violinplots(line 26) - violinplots successfully
+25-08-2021 16:51:09 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+25-08-2021 16:51:09 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+25-08-2021 16:51:10 - [INFO] -  exploration - (exploration.py).countplots(line 16) - countplots successfully.
+25-08-2021 16:51:10 - [INFO] -  exploration - (exploration.py).countplots(line 16) - countplots successfully.
+25-08-2021 16:51:11 - [INFO] -  exploration - (exploration.py).violinplots(line 26) - violinplots successfully
+25-08-2021 16:51:11 - [INFO] -  exploration - (exploration.py).violinplots(line 26) - violinplots successfully
+25-08-2021 16:51:12 - [INFO] -  exploration - (exploration.py).violinplots(line 26) - violinplots successfully
+25-08-2021 16:51:12 - [INFO] -  exploration - (exploration.py).violinplots(line 26) - violinplots successfully
+25-08-2021 16:51:13 - [INFO] -  exploration - (exploration.py).violinplots(line 26) - violinplots successfully
+25-08-2021 16:51:13 - [INFO] -  exploration - (exploration.py).violinplots(line 26) - violinplots successfully
+25-08-2021 16:52:01 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+25-08-2021 16:52:01 - [INFO] -  exploration - (exploration.py).countplots(line 16) - countplots successfully.
+25-08-2021 16:52:02 - [INFO] -  exploration - (exploration.py).violinplots(line 26) - violinplots successfully
+25-08-2021 16:52:04 - [INFO] -  exploration - (exploration.py).violinplots(line 26) - violinplots successfully
+25-08-2021 16:52:05 - [INFO] -  exploration - (exploration.py).violinplots(line 26) - violinplots successfully
+25-08-2021 16:52:07 - [INFO] -  exploration - (exploration.py).boxplots(line 34) - boxplots successfully
+25-08-2021 17:05:54 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+25-08-2021 17:05:56 - [INFO] -  exploration - (exploration.py).countplots(line 16) - countplots successfully.
+25-08-2021 17:05:57 - [INFO] -  exploration - (exploration.py).violinplots(line 26) - violinplots successfully
+25-08-2021 17:05:58 - [INFO] -  exploration - (exploration.py).violinplots(line 26) - violinplots successfully
+25-08-2021 17:05:59 - [INFO] -  exploration - (exploration.py).violinplots(line 26) - violinplots successfully
+25-08-2021 17:06:00 - [INFO] -  exploration - (exploration.py).boxplots(line 42) - boxplots successfully
+25-08-2021 17:07:16 - [INFO] -  exploration - (exploration.py).jointplots(line 48) - jointplots successfully
+25-08-2021 17:13:05 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+25-08-2021 17:13:05 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+25-08-2021 17:13:05 - [INFO] -  exploration - (exploration.py).countplots(line 16) - countplots successfully.
+25-08-2021 17:13:05 - [INFO] -  exploration - (exploration.py).countplots(line 16) - countplots successfully.
+25-08-2021 17:13:06 - [INFO] -  exploration - (exploration.py).violinplots(line 26) - violinplots successfully
+25-08-2021 17:13:06 - [INFO] -  exploration - (exploration.py).violinplots(line 26) - violinplots successfully
+25-08-2021 17:13:06 - [INFO] -  exploration - (exploration.py).violinplots(line 26) - violinplots successfully
+25-08-2021 17:13:06 - [INFO] -  exploration - (exploration.py).violinplots(line 26) - violinplots successfully
+25-08-2021 17:13:07 - [INFO] -  exploration - (exploration.py).violinplots(line 26) - violinplots successfully
+25-08-2021 17:13:07 - [INFO] -  exploration - (exploration.py).violinplots(line 26) - violinplots successfully
+25-08-2021 17:13:08 - [INFO] -  exploration - (exploration.py).boxplots(line 42) - boxplots successfully
+25-08-2021 17:13:08 - [INFO] -  exploration - (exploration.py).boxplots(line 42) - boxplots successfully
+25-08-2021 17:13:10 - [INFO] -  exploration - (exploration.py).jointplots(line 48) - jointplots successfully
+25-08-2021 17:13:10 - [INFO] -  exploration - (exploration.py).jointplots(line 48) - jointplots successfully
+25-08-2021 17:13:51 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+25-08-2021 17:13:51 - [INFO] -  exploration - (exploration.py).countplots(line 16) - countplots successfully.
+25-08-2021 17:13:52 - [INFO] -  exploration - (exploration.py).violinplots(line 26) - violinplots successfully
+25-08-2021 17:13:53 - [INFO] -  exploration - (exploration.py).violinplots(line 26) - violinplots successfully
+25-08-2021 17:13:54 - [INFO] -  exploration - (exploration.py).violinplots(line 26) - violinplots successfully
+25-08-2021 17:13:54 - [INFO] -  exploration - (exploration.py).boxplots(line 42) - boxplots successfully
+25-08-2021 17:13:56 - [INFO] -  exploration - (exploration.py).jointplots(line 48) - jointplots successfully
+25-08-2021 17:14:00 - [INFO] -  exploration - (exploration.py).pairplots(line 59) - pairplots successfully
+25-08-2021 17:17:33 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+25-08-2021 17:17:34 - [INFO] -  exploration - (exploration.py).countplots(line 16) - countplots successfully.
+25-08-2021 17:17:35 - [INFO] -  exploration - (exploration.py).violinplots(line 26) - violinplots successfully
+25-08-2021 17:17:35 - [INFO] -  exploration - (exploration.py).violinplots(line 26) - violinplots successfully
+25-08-2021 17:17:36 - [INFO] -  exploration - (exploration.py).violinplots(line 26) - violinplots successfully
+25-08-2021 17:17:37 - [INFO] -  exploration - (exploration.py).boxplots(line 42) - boxplots successfully
+25-08-2021 17:17:39 - [INFO] -  exploration - (exploration.py).jointplots(line 48) - jointplots successfully
+25-08-2021 17:17:43 - [INFO] -  exploration - (exploration.py).pairplots(line 59) - pairplots successfully
+25-08-2021 17:17:50 - [INFO] -  exploration - (exploration.py).swarmplots(line 67) - swarmplots successfully
+25-08-2021 17:18:36 - [INFO] -  exploration - (exploration.py).swarmplots(line 67) - swarmplots successfully
+25-08-2021 17:19:14 - [INFO] -  exploration - (exploration.py).swarmplots(line 67) - swarmplots successfully
+25-08-2021 19:02:24 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+25-08-2021 19:02:25 - [INFO] -  exploration - (exploration.py).countplots(line 16) - countplots successfully.
+25-08-2021 19:02:26 - [INFO] -  exploration - (exploration.py).violinplots(line 26) - violinplots successfully
+25-08-2021 19:02:27 - [INFO] -  exploration - (exploration.py).violinplots(line 26) - violinplots successfully
+25-08-2021 19:02:27 - [INFO] -  exploration - (exploration.py).violinplots(line 26) - violinplots successfully
+25-08-2021 19:02:28 - [INFO] -  exploration - (exploration.py).boxplots(line 42) - boxplots successfully
+25-08-2021 19:02:30 - [INFO] -  exploration - (exploration.py).jointplots(line 48) - jointplots successfully
+25-08-2021 19:02:33 - [INFO] -  exploration - (exploration.py).pairplots(line 59) - pairplots successfully
+25-08-2021 19:02:38 - [INFO] -  exploration - (exploration.py).swarmplots(line 67) - swarmplots successfully
+25-08-2021 19:02:46 - [INFO] -  exploration - (exploration.py).swarmplots(line 67) - swarmplots successfully
+25-08-2021 19:02:51 - [INFO] -  exploration - (exploration.py).swarmplots(line 67) - swarmplots successfully
+25-08-2021 19:02:53 - [INFO] -  exploration - (exploration.py).correlation(line 74) - plots correlation map successfully
+25-08-2021 19:05:14 - [INFO] -  exploration - (exploration.py).correlation(line 74) - plots correlation map successfully
