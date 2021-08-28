@@ -70,3 +70,6 @@ AttributeError: 'NoneType' object has no attribute 'nodes'
 28-08-2021 18:42:38 - [INFO] -  structure - (structure.py).drawgraph(line 13) - plots causal graph successfully
 28-08-2021 18:42:38 - [INFO] -  structure - (structure.py).drawgraph(line 13) - plots causal graph successfully
 28-08-2021 18:42:38 - [INFO] -  structure - (structure.py).drawgraph(line 13) - plots causal graph successfully
+28-08-2021 18:44:44 - [INFO] -  structure - (structure.py).drawgraph(line 13) - plots causal graph successfully
+28-08-2021 18:44:44 - [INFO] -  structure - (structure.py).drawgraph(line 13) - plots causal graph successfully
+28-08-2021 18:44:44 - [INFO] -  structure - (structure.py).drawgraph(line 13) - plots causal graph successfully
