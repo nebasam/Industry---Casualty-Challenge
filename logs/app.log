@@ -807,3 +807,304 @@ TypeError: bad operand type for abs(): 'NoneType'
 29-08-2021 15:58:31 - [INFO] -  structure - (structure.py).drawgraphs(line 53) - plots causal graph successfully
 29-08-2021 15:58:31 - [INFO] -  structure - (structure.py).drawgraphs(line 53) - plots causal graph successfully
 29-08-2021 15:58:31 - [INFO] -  structure - (structure.py).drawgraphs(line 53) - plots causal graph successfully
+29-08-2021 15:59:28 - [INFO] -  structure - (structure.py).drawgraphs(line 53) - plots causal graph successfully
+29-08-2021 15:59:28 - [INFO] -  structure - (structure.py).drawgraphs(line 53) - plots causal graph successfully
+29-08-2021 15:59:28 - [INFO] -  structure - (structure.py).drawgraphs(line 53) - plots causal graph successfully
+29-08-2021 15:59:28 - [INFO] -  structure - (structure.py).drawgraphs(line 53) - plots causal graph successfully
+29-08-2021 15:59:28 - [INFO] -  structure - (structure.py).drawgraphs(line 53) - plots causal graph successfully
+29-08-2021 15:59:39 - [INFO] -  structure - (structure.py).drawgraphs(line 53) - plots causal graph successfully
+29-08-2021 15:59:39 - [INFO] -  structure - (structure.py).drawgraphs(line 53) - plots causal graph successfully
+29-08-2021 15:59:39 - [INFO] -  structure - (structure.py).drawgraphs(line 53) - plots causal graph successfully
+29-08-2021 15:59:39 - [INFO] -  structure - (structure.py).drawgraphs(line 53) - plots causal graph successfully
+29-08-2021 15:59:39 - [INFO] -  structure - (structure.py).drawgraphs(line 53) - plots causal graph successfully
+29-08-2021 16:01:15 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:01:15 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:01:15 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:01:15 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:01:15 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:01:15 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:01:19 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:01:19 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:01:19 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:01:19 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:01:19 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:01:19 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:01:19 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:04:31 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:04:31 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:04:31 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:04:31 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:04:31 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:04:31 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:04:31 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:04:31 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:04:31 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:08:30 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 16:08:30 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 16:08:30 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 16:08:30 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 16:08:30 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 16:08:36 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 16:08:36 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 16:08:36 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 16:08:36 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 16:08:36 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 16:08:36 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 16:08:41 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:08:41 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:08:41 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:08:41 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:08:41 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:08:41 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:08:41 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:08:41 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:08:41 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:08:41 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:09:00 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:09:00 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:09:00 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:09:00 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:09:00 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:09:00 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:09:00 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:09:00 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:09:00 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:09:00 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:09:00 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:10:31 - [ERROR] -  randomforest - (randomforest.py).accuracy(line 48) - failed to do confusion matrix.
+Traceback (most recent call last):
+  File "/home/neba/Downloads/Industry---Casualty-Challenge/scripts/randomforest.py", line 41, in accuracy
+TypeError: randomforest() missing 1 required positional argument: 'y_train'
+29-08-2021 16:10:31 - [ERROR] -  randomforest - (randomforest.py).accuracy(line 48) - failed to do confusion matrix.
+Traceback (most recent call last):
+  File "/home/neba/Downloads/Industry---Casualty-Challenge/scripts/randomforest.py", line 41, in accuracy
+TypeError: randomforest() missing 1 required positional argument: 'y_train'
+29-08-2021 16:10:31 - [ERROR] -  randomforest - (randomforest.py).accuracy(line 48) - failed to do confusion matrix.
+Traceback (most recent call last):
+  File "/home/neba/Downloads/Industry---Casualty-Challenge/scripts/randomforest.py", line 41, in accuracy
+TypeError: randomforest() missing 1 required positional argument: 'y_train'
+29-08-2021 16:10:31 - [ERROR] -  randomforest - (randomforest.py).accuracy(line 48) - failed to do confusion matrix.
+Traceback (most recent call last):
+  File "/home/neba/Downloads/Industry---Casualty-Challenge/scripts/randomforest.py", line 41, in accuracy
+TypeError: randomforest() missing 1 required positional argument: 'y_train'
+29-08-2021 16:10:31 - [ERROR] -  randomforest - (randomforest.py).accuracy(line 48) - failed to do confusion matrix.
+Traceback (most recent call last):
+  File "/home/neba/Downloads/Industry---Casualty-Challenge/scripts/randomforest.py", line 41, in accuracy
+TypeError: randomforest() missing 1 required positional argument: 'y_train'
+29-08-2021 16:10:31 - [ERROR] -  randomforest - (randomforest.py).accuracy(line 48) - failed to do confusion matrix.
+Traceback (most recent call last):
+  File "/home/neba/Downloads/Industry---Casualty-Challenge/scripts/randomforest.py", line 41, in accuracy
+TypeError: randomforest() missing 1 required positional argument: 'y_train'
+29-08-2021 16:10:31 - [ERROR] -  randomforest - (randomforest.py).accuracy(line 48) - failed to do confusion matrix.
+Traceback (most recent call last):
+  File "/home/neba/Downloads/Industry---Casualty-Challenge/scripts/randomforest.py", line 41, in accuracy
+TypeError: randomforest() missing 1 required positional argument: 'y_train'
+29-08-2021 16:10:31 - [ERROR] -  randomforest - (randomforest.py).accuracy(line 48) - failed to do confusion matrix.
+Traceback (most recent call last):
+  File "/home/neba/Downloads/Industry---Casualty-Challenge/scripts/randomforest.py", line 41, in accuracy
+TypeError: randomforest() missing 1 required positional argument: 'y_train'
+29-08-2021 16:10:31 - [ERROR] -  randomforest - (randomforest.py).accuracy(line 48) - failed to do confusion matrix.
+Traceback (most recent call last):
+  File "/home/neba/Downloads/Industry---Casualty-Challenge/scripts/randomforest.py", line 41, in accuracy
+TypeError: randomforest() missing 1 required positional argument: 'y_train'
+29-08-2021 16:10:31 - [ERROR] -  randomforest - (randomforest.py).accuracy(line 48) - failed to do confusion matrix.
+Traceback (most recent call last):
+  File "/home/neba/Downloads/Industry---Casualty-Challenge/scripts/randomforest.py", line 41, in accuracy
+TypeError: randomforest() missing 1 required positional argument: 'y_train'
+29-08-2021 16:10:31 - [ERROR] -  randomforest - (randomforest.py).accuracy(line 48) - failed to do confusion matrix.
+Traceback (most recent call last):
+  File "/home/neba/Downloads/Industry---Casualty-Challenge/scripts/randomforest.py", line 41, in accuracy
+TypeError: randomforest() missing 1 required positional argument: 'y_train'
+29-08-2021 16:13:40 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 16:13:40 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 16:13:40 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 16:13:40 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 16:13:40 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 16:13:40 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 16:13:50 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 16:13:50 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 16:13:50 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 16:13:50 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 16:13:50 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 16:13:50 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 16:13:50 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 16:13:55 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:13:55 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:13:55 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:13:55 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:13:55 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:13:55 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:13:55 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:13:55 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:13:55 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:13:55 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:13:55 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:13:55 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:14:10 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:14:10 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:14:10 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:14:10 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:14:10 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:14:10 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:14:10 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:14:10 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:14:10 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:14:10 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:14:10 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:14:10 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:14:10 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:16:34 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:16:34 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:16:34 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:16:34 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:16:34 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:16:34 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:16:34 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:16:34 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:16:34 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:16:34 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:16:34 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:16:34 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:16:34 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:16:34 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:17:14 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 16:17:14 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 16:17:14 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 16:17:14 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 16:17:14 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 16:17:14 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 16:17:16 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 16:17:16 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 16:17:16 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 16:17:16 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 16:17:16 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 16:17:16 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 16:17:16 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 16:17:16 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 16:17:24 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:17:24 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:17:24 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:17:24 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:17:24 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:17:24 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:17:24 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:17:24 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:17:24 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:17:24 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:17:24 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:17:24 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:17:24 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:17:24 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:17:24 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:17:38 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:17:38 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:17:38 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:17:38 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:17:38 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:17:38 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:17:38 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:17:38 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:17:38 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:17:38 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:17:38 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:17:38 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:17:38 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:17:38 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:17:38 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:17:38 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:23:44 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 16:23:44 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 16:23:44 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 16:23:44 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 16:23:44 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 16:23:44 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 16:23:44 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 16:23:47 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 16:23:47 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 16:23:47 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 16:23:47 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 16:23:47 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 16:23:47 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 16:23:47 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 16:23:47 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 16:23:47 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 16:23:52 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:23:52 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:23:52 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:23:52 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:23:52 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:23:52 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:23:52 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:23:52 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:23:52 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:23:52 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:23:52 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:23:52 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:23:52 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:23:52 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:23:52 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:23:52 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:23:52 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.

@@ -27,28 +27,28 @@ class RandomForest:
         except Exception:
             self.logger.exception('splitting data failed.')
     def randomforest(self,df,x_train,y_train,):
-        mlflow.set_experiment('Breast cancer Causality')
-        mlflow.log_param('input_rows_shape', df.shape[0])
-        mlflow.log_param('input_cols_shape', df.shape[1])
         try:
+            mlflow.set_experiment('Breast cancer Causality')
+            mlflow.log_param('input_rows_shape', df.shape[0])
+            mlflow.log_param('input_cols_shape', df.shape[1])
             clf_rf = RandomForestClassifier(random_state=43)      
             clr_rf = clf_rf.fit(x_train,y_train)
             mlflow.sklearn.log_model(clr_rf, "Logistic Regression model")
-            self.logger.exception('train model.')
+            self.logger.info('train model.')
             return clr_rf
         except Exception:
             self.logger.exception('failed to train a model.')
 
-    def accuracy(self,x_train,y_train,x_test,y_test,path,Data_version):
+    def accuracy(self,df, x_train,y_train,x_test,y_test,path):
         try:
-            clr_rf =  self.randomforest(x_train,y_train)
+            clr_rf =  self.randomforest(df,x_train,y_train)
             ac = accuracy_score(y_test,clr_rf.predict(x_test))
             mlflow.log_metrics({"accuracy": ac})
             print('Accuracy is: ',ac)
             # Plot and save metrics details    
             cm = plot_confusion_matrix(clr_rf, x_test, y_test, display_labels=['Benign', 'Malignant'],cmap='magma')
             plt.title('Confusion Matrix')
-            filename = f'../output/{Data_version}_test_confusion_matrix.png'
+            filename = f'{path}_test_confusion_matrix.png'
             plt.savefig(filename)
             # log model artifacts
             mlflow.log_artifact(filename)
@@ -60,4 +60,4 @@ class RandomForest:
             return cm
         except Exception:
             self.logger.exception('failed to do confusion matrix.')
-        plt.title('Confusion Matrix')
+        plt.title('failed to plot Confusion Matrix')
