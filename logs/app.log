@@ -175,3 +175,7 @@ TypeError: bad operand type for abs(): 'NoneType'
 29-08-2021 09:11:02 - [INFO] -  structure - (structure.py).drawgraph(line 18) - plots causal graph successfully
 29-08-2021 09:11:42 - [INFO] -  structure - (structure.py).drawgraph(line 18) - plots causal graph successfully
 29-08-2021 09:11:42 - [INFO] -  structure - (structure.py).drawgraphs(line 27) - plots causal graph successfully
+29-08-2021 09:42:14 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 09:42:16 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 09:42:18 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 09:42:18 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
