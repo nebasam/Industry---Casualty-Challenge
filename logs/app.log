@@ -1108,3 +1108,55 @@ NoneType: None
 29-08-2021 16:23:52 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
 29-08-2021 16:23:52 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
 29-08-2021 16:23:52 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:28:56 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 16:29:02 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 16:29:09 - [INFO] -  randomforest - (randomforest.py).splitdata(line 25) - splits data successfully.
+29-08-2021 16:29:19 - [INFO] -  randomforest - (randomforest.py).splitdata(line 25) - splits data successfully.
+29-08-2021 16:29:19 - [INFO] -  randomforest - (randomforest.py).splitdata(line 25) - splits data successfully.
+29-08-2021 16:30:14 - [INFO] -  randomforest - (randomforest.py).randomforest(line 37) - train model.
+29-08-2021 16:30:14 - [INFO] -  randomforest - (randomforest.py).randomforest(line 37) - train model.
+29-08-2021 16:30:14 - [INFO] -  randomforest - (randomforest.py).randomforest(line 37) - train model.
+29-08-2021 16:30:25 - [INFO] -  randomforest - (randomforest.py).randomforest(line 37) - train model.
+29-08-2021 16:30:25 - [INFO] -  randomforest - (randomforest.py).randomforest(line 37) - train model.
+29-08-2021 16:30:25 - [INFO] -  randomforest - (randomforest.py).randomforest(line 37) - train model.
+29-08-2021 16:30:25 - [ERROR] -  randomforest - (randomforest.py).accuracy(line 57) - plot confusion matrix.
+NoneType: None
+29-08-2021 16:30:25 - [ERROR] -  randomforest - (randomforest.py).accuracy(line 57) - plot confusion matrix.
+NoneType: None
+29-08-2021 16:30:25 - [ERROR] -  randomforest - (randomforest.py).accuracy(line 57) - plot confusion matrix.
+NoneType: None
+29-08-2021 16:57:18 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 16:57:28 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 16:59:08 - [INFO] -  randomforest - (randomforest.py).splitdata(line 25) - splits data successfully.
+29-08-2021 17:02:12 - [INFO] -  randomforest - (randomforest.py).randomforest(line 37) - train model.
+29-08-2021 17:02:12 - [INFO] -  randomforest - (randomforest.py).randomforest(line 37) - train model.
+29-08-2021 17:02:18 - [INFO] -  randomforest - (randomforest.py).randomforest(line 37) - train model.
+29-08-2021 17:02:18 - [INFO] -  randomforest - (randomforest.py).randomforest(line 37) - train model.
+29-08-2021 17:02:18 - [INFO] -  randomforest - (randomforest.py).accuracy(line 57) - plot confusion matrix.
+29-08-2021 17:02:18 - [INFO] -  randomforest - (randomforest.py).accuracy(line 57) - plot confusion matrix.
+29-08-2021 17:11:00 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 17:11:00 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 17:11:13 - [INFO] -  randomforest - (randomforest.py).randomforest(line 37) - train model.
+29-08-2021 17:11:13 - [INFO] -  randomforest - (randomforest.py).randomforest(line 37) - train model.
+29-08-2021 17:11:13 - [INFO] -  randomforest - (randomforest.py).randomforest(line 37) - train model.
+29-08-2021 17:12:02 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 17:12:04 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 17:12:06 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 17:12:06 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 17:12:09 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 17:12:09 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 17:12:09 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 17:12:42 - [INFO] -  logistic - (logistic.py).splitdata(line 24) - splits data successfully.
+29-08-2021 17:12:42 - [INFO] -  logistic - (logistic.py).splitdata(line 24) - splits data successfully.
+29-08-2021 17:14:43 - [INFO] -  logistic - (logistic.py).logistic(line 36) - train model.
+29-08-2021 17:14:43 - [INFO] -  logistic - (logistic.py).logistic(line 36) - train model.
+29-08-2021 17:14:43 - [INFO] -  logistic - (logistic.py).logistic(line 36) - train model.
+29-08-2021 17:14:43 - [INFO] -  logistic - (logistic.py).logistic(line 36) - train model.
+29-08-2021 17:14:57 - [INFO] -  logistic - (logistic.py).logistic(line 36) - train model.
+29-08-2021 17:14:57 - [INFO] -  logistic - (logistic.py).logistic(line 36) - train model.
+29-08-2021 17:14:57 - [INFO] -  logistic - (logistic.py).logistic(line 36) - train model.
+29-08-2021 17:14:57 - [INFO] -  logistic - (logistic.py).logistic(line 36) - train model.
+29-08-2021 17:14:57 - [INFO] -  logistic - (logistic.py).accuracy(line 56) - plot confusion matrix.
+29-08-2021 17:14:57 - [INFO] -  logistic - (logistic.py).accuracy(line 56) - plot confusion matrix.
+29-08-2021 17:14:57 - [INFO] -  logistic - (logistic.py).accuracy(line 56) - plot confusion matrix.
+29-08-2021 17:14:57 - [INFO] -  logistic - (logistic.py).accuracy(line 56) - plot confusion matrix.
