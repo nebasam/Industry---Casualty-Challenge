@@ -175,3 +175,145 @@ TypeError: bad operand type for abs(): 'NoneType'
 29-08-2021 09:11:02 - [INFO] -  structure - (structure.py).drawgraph(line 18) - plots causal graph successfully
 29-08-2021 09:11:42 - [INFO] -  structure - (structure.py).drawgraph(line 18) - plots causal graph successfully
 29-08-2021 09:11:42 - [INFO] -  structure - (structure.py).drawgraphs(line 27) - plots causal graph successfully
+29-08-2021 09:45:07 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 09:45:11 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 09:46:35 - [INFO] -  randomforest - (randomforest.py).splitdata(line 22) - splits data successfully.
+29-08-2021 09:46:35 - [INFO] -  randomforest - (randomforest.py).splitdata(line 22) - splits data successfully.
+29-08-2021 09:47:05 - [INFO] -  file_read - (file_read.py).to_csv(line 13) - Csv file saved in ../input/extracted.csv.
+29-08-2021 09:50:12 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 09:50:12 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 09:50:12 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 09:50:12 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 09:50:12 - [INFO] -  randomforest - (randomforest.py).splitdata(line 22) - splits data successfully.
+29-08-2021 09:50:12 - [INFO] -  randomforest - (randomforest.py).splitdata(line 22) - splits data successfully.
+29-08-2021 09:50:12 - [INFO] -  randomforest - (randomforest.py).splitdata(line 22) - splits data successfully.
+29-08-2021 09:50:13 - [INFO] -  structure - (structure.py).drawgraph(line 18) - plots causal graph successfully
+29-08-2021 09:50:13 - [INFO] -  structure - (structure.py).drawgraph(line 18) - plots causal graph successfully
+29-08-2021 09:52:43 - [INFO] -  structure - (structure.py).drawgraph(line 18) - plots causal graph successfully
+29-08-2021 09:52:43 - [INFO] -  structure - (structure.py).drawgraph(line 18) - plots causal graph successfully
+29-08-2021 09:54:15 - [INFO] -  structure - (structure.py).drawgraph(line 18) - plots causal graph successfully
+29-08-2021 09:54:15 - [INFO] -  structure - (structure.py).drawgraph(line 18) - plots causal graph successfully
+29-08-2021 09:55:27 - [INFO] -  structure - (structure.py).drawgraph(line 18) - plots causal graph successfully
+29-08-2021 09:55:27 - [INFO] -  structure - (structure.py).drawgraph(line 18) - plots causal graph successfully
+29-08-2021 09:56:06 - [INFO] -  structure - (structure.py).drawgraph(line 18) - plots causal graph successfully
+29-08-2021 09:56:06 - [INFO] -  structure - (structure.py).drawgraph(line 18) - plots causal graph successfully
+29-08-2021 09:57:22 - [INFO] -  structure - (structure.py).drawgraph(line 18) - plots causal graph successfully
+29-08-2021 09:57:22 - [INFO] -  structure - (structure.py).drawgraph(line 18) - plots causal graph successfully
+29-08-2021 10:00:42 - [INFO] -  structure - (structure.py).drawgraph(line 18) - plots causal graph successfully
+29-08-2021 10:00:42 - [INFO] -  structure - (structure.py).drawgraph(line 18) - plots causal graph successfully
+29-08-2021 10:02:28 - [INFO] -  structure - (structure.py).drawgraph(line 18) - plots causal graph successfully
+29-08-2021 10:02:28 - [INFO] -  structure - (structure.py).drawgraph(line 18) - plots causal graph successfully
+29-08-2021 10:03:05 - [INFO] -  structure - (structure.py).drawgraph(line 18) - plots causal graph successfully
+29-08-2021 10:03:05 - [INFO] -  structure - (structure.py).drawgraph(line 18) - plots causal graph successfully
+29-08-2021 10:03:06 - [INFO] -  structure - (structure.py).drawgraphs(line 27) - plots causal graph successfully
+29-08-2021 10:03:06 - [INFO] -  structure - (structure.py).drawgraphs(line 27) - plots causal graph successfully
+29-08-2021 10:33:00 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 10:33:00 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 10:33:00 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 10:33:00 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 10:33:00 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 10:33:00 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 10:33:00 - [INFO] -  randomforest - (randomforest.py).splitdata(line 22) - splits data successfully.
+29-08-2021 10:33:00 - [INFO] -  randomforest - (randomforest.py).splitdata(line 22) - splits data successfully.
+29-08-2021 10:33:00 - [INFO] -  randomforest - (randomforest.py).splitdata(line 22) - splits data successfully.
+29-08-2021 10:33:00 - [INFO] -  randomforest - (randomforest.py).splitdata(line 22) - splits data successfully.
+29-08-2021 10:33:01 - [INFO] -  file_read - (file_read.py).to_csv(line 13) - Csv file saved in ../input/extracted.csv.
+29-08-2021 10:33:01 - [INFO] -  file_read - (file_read.py).to_csv(line 13) - Csv file saved in ../input/extracted.csv.
+29-08-2021 10:33:01 - [INFO] -  file_read - (file_read.py).to_csv(line 13) - Csv file saved in ../input/extracted.csv.
+29-08-2021 10:36:34 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 10:36:34 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 10:36:34 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 10:36:34 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 10:36:34 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 10:36:34 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 10:36:34 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 10:36:34 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 10:36:34 - [INFO] -  randomforest - (randomforest.py).splitdata(line 22) - splits data successfully.
+29-08-2021 10:36:34 - [INFO] -  randomforest - (randomforest.py).splitdata(line 22) - splits data successfully.
+29-08-2021 10:36:34 - [INFO] -  randomforest - (randomforest.py).splitdata(line 22) - splits data successfully.
+29-08-2021 10:36:34 - [INFO] -  randomforest - (randomforest.py).splitdata(line 22) - splits data successfully.
+29-08-2021 10:36:34 - [INFO] -  randomforest - (randomforest.py).splitdata(line 22) - splits data successfully.
+29-08-2021 10:36:35 - [INFO] -  file_read - (file_read.py).to_csv(line 13) - Csv file saved in ../input/extracted.csv.
+29-08-2021 10:36:35 - [INFO] -  file_read - (file_read.py).to_csv(line 13) - Csv file saved in ../input/extracted.csv.
+29-08-2021 10:36:35 - [INFO] -  file_read - (file_read.py).to_csv(line 13) - Csv file saved in ../input/extracted.csv.
+29-08-2021 10:36:35 - [INFO] -  file_read - (file_read.py).to_csv(line 13) - Csv file saved in ../input/extracted.csv.
+29-08-2021 10:41:47 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 10:41:47 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 10:41:47 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 10:41:47 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 10:41:47 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 10:41:47 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 10:41:47 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 10:41:47 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 10:41:47 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 10:41:47 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 10:41:47 - [INFO] -  randomforest - (randomforest.py).splitdata(line 22) - splits data successfully.
+29-08-2021 10:41:47 - [INFO] -  randomforest - (randomforest.py).splitdata(line 22) - splits data successfully.
+29-08-2021 10:41:47 - [INFO] -  randomforest - (randomforest.py).splitdata(line 22) - splits data successfully.
+29-08-2021 10:41:47 - [INFO] -  randomforest - (randomforest.py).splitdata(line 22) - splits data successfully.
+29-08-2021 10:41:47 - [INFO] -  randomforest - (randomforest.py).splitdata(line 22) - splits data successfully.
+29-08-2021 10:41:47 - [INFO] -  randomforest - (randomforest.py).splitdata(line 22) - splits data successfully.
+29-08-2021 10:41:47 - [INFO] -  file_read - (file_read.py).to_csv(line 13) - Csv file saved in ../input/extracted.csv.
+29-08-2021 10:41:47 - [INFO] -  file_read - (file_read.py).to_csv(line 13) - Csv file saved in ../input/extracted.csv.
+29-08-2021 10:41:47 - [INFO] -  file_read - (file_read.py).to_csv(line 13) - Csv file saved in ../input/extracted.csv.
+29-08-2021 10:41:47 - [INFO] -  file_read - (file_read.py).to_csv(line 13) - Csv file saved in ../input/extracted.csv.
+29-08-2021 10:41:47 - [INFO] -  file_read - (file_read.py).to_csv(line 13) - Csv file saved in ../input/extracted.csv.
+29-08-2021 10:46:11 - [INFO] -  structure - (structure.py).drawgraph(line 18) - plots causal graph successfully
+29-08-2021 10:46:11 - [INFO] -  structure - (structure.py).drawgraph(line 18) - plots causal graph successfully
+29-08-2021 10:46:11 - [INFO] -  structure - (structure.py).drawgraph(line 18) - plots causal graph successfully
+29-08-2021 10:46:11 - [INFO] -  structure - (structure.py).drawgraph(line 18) - plots causal graph successfully
+29-08-2021 10:46:11 - [INFO] -  structure - (structure.py).drawgraph(line 18) - plots causal graph successfully
+29-08-2021 10:46:42 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 10:46:42 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 10:46:42 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 10:46:42 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 10:46:42 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 10:46:42 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 10:46:42 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 10:46:42 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 10:46:42 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 10:46:42 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 10:46:42 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 10:46:42 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 10:46:42 - [INFO] -  randomforest - (randomforest.py).splitdata(line 22) - splits data successfully.
+29-08-2021 10:46:42 - [INFO] -  randomforest - (randomforest.py).splitdata(line 22) - splits data successfully.
+29-08-2021 10:46:42 - [INFO] -  randomforest - (randomforest.py).splitdata(line 22) - splits data successfully.
+29-08-2021 10:46:42 - [INFO] -  randomforest - (randomforest.py).splitdata(line 22) - splits data successfully.
+29-08-2021 10:46:42 - [INFO] -  randomforest - (randomforest.py).splitdata(line 22) - splits data successfully.
+29-08-2021 10:46:42 - [INFO] -  randomforest - (randomforest.py).splitdata(line 22) - splits data successfully.
+29-08-2021 10:46:42 - [INFO] -  randomforest - (randomforest.py).splitdata(line 22) - splits data successfully.
+29-08-2021 10:46:43 - [INFO] -  file_read - (file_read.py).to_csv(line 13) - Csv file saved in ../input/extracted.csv.
+29-08-2021 10:46:43 - [INFO] -  file_read - (file_read.py).to_csv(line 13) - Csv file saved in ../input/extracted.csv.
+29-08-2021 10:46:43 - [INFO] -  file_read - (file_read.py).to_csv(line 13) - Csv file saved in ../input/extracted.csv.
+29-08-2021 10:46:43 - [INFO] -  file_read - (file_read.py).to_csv(line 13) - Csv file saved in ../input/extracted.csv.
+29-08-2021 10:46:43 - [INFO] -  file_read - (file_read.py).to_csv(line 13) - Csv file saved in ../input/extracted.csv.
+29-08-2021 10:46:43 - [INFO] -  file_read - (file_read.py).to_csv(line 13) - Csv file saved in ../input/extracted.csv.
+29-08-2021 10:50:46 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 10:50:46 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 10:50:46 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 10:50:46 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 10:50:46 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 10:50:46 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 10:50:46 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 10:50:46 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 10:50:46 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 10:50:46 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 10:50:46 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 10:50:46 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 10:50:46 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 10:50:46 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 10:50:46 - [INFO] -  randomforest - (randomforest.py).splitdata(line 22) - splits data successfully.
+29-08-2021 10:50:46 - [INFO] -  randomforest - (randomforest.py).splitdata(line 22) - splits data successfully.
+29-08-2021 10:50:46 - [INFO] -  randomforest - (randomforest.py).splitdata(line 22) - splits data successfully.
+29-08-2021 10:50:46 - [INFO] -  randomforest - (randomforest.py).splitdata(line 22) - splits data successfully.
+29-08-2021 10:50:46 - [INFO] -  randomforest - (randomforest.py).splitdata(line 22) - splits data successfully.
+29-08-2021 10:50:46 - [INFO] -  randomforest - (randomforest.py).splitdata(line 22) - splits data successfully.
+29-08-2021 10:50:46 - [INFO] -  randomforest - (randomforest.py).splitdata(line 22) - splits data successfully.
+29-08-2021 10:50:46 - [INFO] -  randomforest - (randomforest.py).splitdata(line 22) - splits data successfully.
+29-08-2021 10:50:47 - [INFO] -  file_read - (file_read.py).to_csv(line 13) - Csv file saved in ../input/extracted.csv.
+29-08-2021 10:50:47 - [INFO] -  file_read - (file_read.py).to_csv(line 13) - Csv file saved in ../input/extracted.csv.
+29-08-2021 10:50:47 - [INFO] -  file_read - (file_read.py).to_csv(line 13) - Csv file saved in ../input/extracted.csv.
+29-08-2021 10:50:47 - [INFO] -  file_read - (file_read.py).to_csv(line 13) - Csv file saved in ../input/extracted.csv.
+29-08-2021 10:50:47 - [INFO] -  file_read - (file_read.py).to_csv(line 13) - Csv file saved in ../input/extracted.csv.
+29-08-2021 10:50:47 - [INFO] -  file_read - (file_read.py).to_csv(line 13) - Csv file saved in ../input/extracted.csv.
+29-08-2021 10:50:47 - [INFO] -  file_read - (file_read.py).to_csv(line 13) - Csv file saved in ../input/extracted.csv.
