@@ -21,3 +21,11 @@ class Structure:
         except Exception:
             self.logger.exception('plots causal graph  failed.')
         
+    def drawgraphs(self,sm):
+        try:
+            viz = plot_structure( sm, graph_attributes={"scale": "2.0","size": "2.5"}, all_node_attributes=NODE_STYLE.WEAK, all_edge_attributes=EDGE_STYLE.WEAK)
+            self.logger.info(f'plots causal graph successfully')
+            return viz
+        
+        except Exception:
+            self.logger.exception('plots causal graph  failed.')
