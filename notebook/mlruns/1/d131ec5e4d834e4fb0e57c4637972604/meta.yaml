@@ -1,0 +1,15 @@
+artifact_uri: file:///home/neba/Downloads/Industry---Casualty-Challenge/notebook/mlruns/1/d131ec5e4d834e4fb0e57c4637972604/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: d131ec5e4d834e4fb0e57c4637972604
+run_uuid: d131ec5e4d834e4fb0e57c4637972604
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1630243809678
+status: 1
+tags: []
+user_id: neba

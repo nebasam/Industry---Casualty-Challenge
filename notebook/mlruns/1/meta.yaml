@@ -1,0 +1,4 @@
+artifact_location: file:///home/neba/Downloads/Industry---Casualty-Challenge/notebook/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: Breast cancer Causality
