@@ -3,7 +3,10 @@ from logger import Logger
 import mlflow
 from IPython.display import Image
 import os
+import matplotlib.pyplot as plt
 class Structure:
+    def __init__(self):
+        self.logger = Logger().get_logger(__name__)
     
     def drawgraph(self,sm,path):
         """Draws Causal graph
@@ -22,7 +25,7 @@ class Structure:
             if (not os.path.isdir('../output')):
                 os.mkdir("../output")
             print("writing graph image")
-            with open(f"path", "wb") as png:
+            with open(f"{path}", "wb") as png:
                 png.write(img.data)
             mlflow.log_artifact(path)
 
@@ -45,9 +48,10 @@ class Structure:
             if (not os.path.isdir('../output')):
                 os.mkdir("../output")
             print("writing graph image")
-            with open(f"path", "wb") as png:
+            with open(f"{path}", "wb") as png:
                 png.write(img.data)
-            mlflow.log_artifact(path)
+            fig = plt.imread(path)
+            mlflow.log_artifact(fig, path)
             self.logger.info(f'plots causal graph successfully')
             return img
         
