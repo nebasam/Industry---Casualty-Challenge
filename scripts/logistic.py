@@ -1,6 +1,5 @@
 from sklearn.model_selection import train_test_split
-from sklearn.ensemble import RandomForestClassifier
-from sklearn.metrics import confusion_matrix
+from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score, plot_confusion_matrix
 import seaborn as sns
 from logger import Logger
@@ -8,7 +7,7 @@ import mlflow
 import matplotlib.pyplot as plt
 
 
-class RandomForest:
+class Logistic:
     def __init__(self):
         mlflow.set_experiment('Breast cancer Causality')
         self.logger = Logger().get_logger(__name__)
@@ -26,12 +25,12 @@ class RandomForest:
             return self.x_train, self.x_test, self.y_train, self.y_test
         except Exception:
             self.logger.exception('splitting data failed.')
-    def randomforest(self,df,x_train,y_train,):
+    def logistic(self,df,x_train,y_train,):
         try:
             mlflow.set_experiment('Breast cancer Causality')
             mlflow.log_param('input_rows_shape', df.shape[0])
-            mlflow.log_param('input_cols_shape', df.shape[1])
-            clf_rf = RandomForestClassifier(random_state=43)      
+            mlflow.log_param('input_cols_shape', df.shape[1])  
+            clf_rf = LogisticRegression(random_state=43)   
             clr_rf = clf_rf.fit(x_train,y_train)
             mlflow.sklearn.log_model(clr_rf, "Logistic Regression model")
             self.logger.info('train model.')
@@ -41,7 +40,7 @@ class RandomForest:
 
     def accuracy(self,df, x_train,y_train,x_test,y_test,path):
         try:
-            clr_rf =  self.randomforest(df,x_train,y_train)
+            clr_rf =  self.logistic(df,x_train,y_train)
             ac = accuracy_score(y_test,clr_rf.predict(x_test))
             mlflow.log_metrics({"accuracy": ac})
             print('Accuracy is: ',ac)
@@ -54,7 +53,7 @@ class RandomForest:
             mlflow.log_artifact(filename)
             # cm = confusion_matrix(y_test,clr_rf.predict(x_test))
             # cm = sns.heatmap(cm,annot=True,fmt="d")
-            self.logger.exception('plot confusion matrix.')
+            self.logger.info('plot confusion matrix.')
             # filename = f'{path}'
             # plt.savefig(filename)
             return cm
