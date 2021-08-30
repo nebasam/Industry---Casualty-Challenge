@@ -1,5 +1,6 @@
 from causalnex.plots import plot_structure, NODE_STYLE, EDGE_STYLE
 from logger import Logger
+from IPython.display import Image
 class Structure:
     
     def __init__(self):
@@ -15,8 +16,9 @@ class Structure:
         try:
             sm.remove_edges_below_threshold(0.8)
             viz = plot_structure( sm, graph_attributes={"scale": "2.0","size": "2.5"}, all_node_attributes=NODE_STYLE.WEAK, all_edge_attributes=EDGE_STYLE.WEAK)
+            img =Image(viz.draw(format='png'))
             self.logger.info(f'plots causal graph successfully')
-            return viz
+            return img
         
         except Exception:
             self.logger.exception('plots causal graph  failed.')
@@ -24,8 +26,9 @@ class Structure:
     def drawgraphs(self,sm):
         try:
             viz = plot_structure( sm, graph_attributes={"scale": "2.0","size": "2.5"}, all_node_attributes=NODE_STYLE.WEAK, all_edge_attributes=EDGE_STYLE.WEAK)
+            img =Image(viz.draw(format='png'))
             self.logger.info(f'plots causal graph successfully')
-            return viz
+            return img
         
         except Exception:
             self.logger.exception('plots causal graph  failed.')

@@ -175,7 +175,1014 @@ TypeError: bad operand type for abs(): 'NoneType'
 29-08-2021 09:11:02 - [INFO] -  structure - (structure.py).drawgraph(line 18) - plots causal graph successfully
 29-08-2021 09:11:42 - [INFO] -  structure - (structure.py).drawgraph(line 18) - plots causal graph successfully
 29-08-2021 09:11:42 - [INFO] -  structure - (structure.py).drawgraphs(line 27) - plots causal graph successfully
+<<<<<<< HEAD
 29-08-2021 09:42:14 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
 29-08-2021 09:42:16 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
 29-08-2021 09:42:18 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
 29-08-2021 09:42:18 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+=======
+29-08-2021 09:45:07 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 09:45:11 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 09:46:35 - [INFO] -  randomforest - (randomforest.py).splitdata(line 22) - splits data successfully.
+29-08-2021 09:46:35 - [INFO] -  randomforest - (randomforest.py).splitdata(line 22) - splits data successfully.
+29-08-2021 09:47:05 - [INFO] -  file_read - (file_read.py).to_csv(line 13) - Csv file saved in ../input/extracted.csv.
+29-08-2021 09:50:12 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 09:50:12 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 09:50:12 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 09:50:12 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 09:50:12 - [INFO] -  randomforest - (randomforest.py).splitdata(line 22) - splits data successfully.
+29-08-2021 09:50:12 - [INFO] -  randomforest - (randomforest.py).splitdata(line 22) - splits data successfully.
+29-08-2021 09:50:12 - [INFO] -  randomforest - (randomforest.py).splitdata(line 22) - splits data successfully.
+29-08-2021 09:50:13 - [INFO] -  structure - (structure.py).drawgraph(line 18) - plots causal graph successfully
+29-08-2021 09:50:13 - [INFO] -  structure - (structure.py).drawgraph(line 18) - plots causal graph successfully
+29-08-2021 09:52:43 - [INFO] -  structure - (structure.py).drawgraph(line 18) - plots causal graph successfully
+29-08-2021 09:52:43 - [INFO] -  structure - (structure.py).drawgraph(line 18) - plots causal graph successfully
+29-08-2021 09:54:15 - [INFO] -  structure - (structure.py).drawgraph(line 18) - plots causal graph successfully
+29-08-2021 09:54:15 - [INFO] -  structure - (structure.py).drawgraph(line 18) - plots causal graph successfully
+29-08-2021 09:55:27 - [INFO] -  structure - (structure.py).drawgraph(line 18) - plots causal graph successfully
+29-08-2021 09:55:27 - [INFO] -  structure - (structure.py).drawgraph(line 18) - plots causal graph successfully
+29-08-2021 09:56:06 - [INFO] -  structure - (structure.py).drawgraph(line 18) - plots causal graph successfully
+29-08-2021 09:56:06 - [INFO] -  structure - (structure.py).drawgraph(line 18) - plots causal graph successfully
+29-08-2021 09:57:22 - [INFO] -  structure - (structure.py).drawgraph(line 18) - plots causal graph successfully
+29-08-2021 09:57:22 - [INFO] -  structure - (structure.py).drawgraph(line 18) - plots causal graph successfully
+29-08-2021 10:00:42 - [INFO] -  structure - (structure.py).drawgraph(line 18) - plots causal graph successfully
+29-08-2021 10:00:42 - [INFO] -  structure - (structure.py).drawgraph(line 18) - plots causal graph successfully
+29-08-2021 10:02:28 - [INFO] -  structure - (structure.py).drawgraph(line 18) - plots causal graph successfully
+29-08-2021 10:02:28 - [INFO] -  structure - (structure.py).drawgraph(line 18) - plots causal graph successfully
+29-08-2021 10:03:05 - [INFO] -  structure - (structure.py).drawgraph(line 18) - plots causal graph successfully
+29-08-2021 10:03:05 - [INFO] -  structure - (structure.py).drawgraph(line 18) - plots causal graph successfully
+29-08-2021 10:03:06 - [INFO] -  structure - (structure.py).drawgraphs(line 27) - plots causal graph successfully
+29-08-2021 10:03:06 - [INFO] -  structure - (structure.py).drawgraphs(line 27) - plots causal graph successfully
+29-08-2021 10:33:00 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 10:33:00 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 10:33:00 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 10:33:00 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 10:33:00 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 10:33:00 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 10:33:00 - [INFO] -  randomforest - (randomforest.py).splitdata(line 22) - splits data successfully.
+29-08-2021 10:33:00 - [INFO] -  randomforest - (randomforest.py).splitdata(line 22) - splits data successfully.
+29-08-2021 10:33:00 - [INFO] -  randomforest - (randomforest.py).splitdata(line 22) - splits data successfully.
+29-08-2021 10:33:00 - [INFO] -  randomforest - (randomforest.py).splitdata(line 22) - splits data successfully.
+29-08-2021 10:33:01 - [INFO] -  file_read - (file_read.py).to_csv(line 13) - Csv file saved in ../input/extracted.csv.
+29-08-2021 10:33:01 - [INFO] -  file_read - (file_read.py).to_csv(line 13) - Csv file saved in ../input/extracted.csv.
+29-08-2021 10:33:01 - [INFO] -  file_read - (file_read.py).to_csv(line 13) - Csv file saved in ../input/extracted.csv.
+29-08-2021 10:36:34 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 10:36:34 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 10:36:34 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 10:36:34 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 10:36:34 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 10:36:34 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 10:36:34 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 10:36:34 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 10:36:34 - [INFO] -  randomforest - (randomforest.py).splitdata(line 22) - splits data successfully.
+29-08-2021 10:36:34 - [INFO] -  randomforest - (randomforest.py).splitdata(line 22) - splits data successfully.
+29-08-2021 10:36:34 - [INFO] -  randomforest - (randomforest.py).splitdata(line 22) - splits data successfully.
+29-08-2021 10:36:34 - [INFO] -  randomforest - (randomforest.py).splitdata(line 22) - splits data successfully.
+29-08-2021 10:36:34 - [INFO] -  randomforest - (randomforest.py).splitdata(line 22) - splits data successfully.
+29-08-2021 10:36:35 - [INFO] -  file_read - (file_read.py).to_csv(line 13) - Csv file saved in ../input/extracted.csv.
+29-08-2021 10:36:35 - [INFO] -  file_read - (file_read.py).to_csv(line 13) - Csv file saved in ../input/extracted.csv.
+29-08-2021 10:36:35 - [INFO] -  file_read - (file_read.py).to_csv(line 13) - Csv file saved in ../input/extracted.csv.
+29-08-2021 10:36:35 - [INFO] -  file_read - (file_read.py).to_csv(line 13) - Csv file saved in ../input/extracted.csv.
+29-08-2021 10:41:47 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 10:41:47 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 10:41:47 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 10:41:47 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 10:41:47 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 10:41:47 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 10:41:47 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 10:41:47 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 10:41:47 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 10:41:47 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 10:41:47 - [INFO] -  randomforest - (randomforest.py).splitdata(line 22) - splits data successfully.
+29-08-2021 10:41:47 - [INFO] -  randomforest - (randomforest.py).splitdata(line 22) - splits data successfully.
+29-08-2021 10:41:47 - [INFO] -  randomforest - (randomforest.py).splitdata(line 22) - splits data successfully.
+29-08-2021 10:41:47 - [INFO] -  randomforest - (randomforest.py).splitdata(line 22) - splits data successfully.
+29-08-2021 10:41:47 - [INFO] -  randomforest - (randomforest.py).splitdata(line 22) - splits data successfully.
+29-08-2021 10:41:47 - [INFO] -  randomforest - (randomforest.py).splitdata(line 22) - splits data successfully.
+29-08-2021 10:41:47 - [INFO] -  file_read - (file_read.py).to_csv(line 13) - Csv file saved in ../input/extracted.csv.
+29-08-2021 10:41:47 - [INFO] -  file_read - (file_read.py).to_csv(line 13) - Csv file saved in ../input/extracted.csv.
+29-08-2021 10:41:47 - [INFO] -  file_read - (file_read.py).to_csv(line 13) - Csv file saved in ../input/extracted.csv.
+29-08-2021 10:41:47 - [INFO] -  file_read - (file_read.py).to_csv(line 13) - Csv file saved in ../input/extracted.csv.
+29-08-2021 10:41:47 - [INFO] -  file_read - (file_read.py).to_csv(line 13) - Csv file saved in ../input/extracted.csv.
+29-08-2021 10:46:11 - [INFO] -  structure - (structure.py).drawgraph(line 18) - plots causal graph successfully
+29-08-2021 10:46:11 - [INFO] -  structure - (structure.py).drawgraph(line 18) - plots causal graph successfully
+29-08-2021 10:46:11 - [INFO] -  structure - (structure.py).drawgraph(line 18) - plots causal graph successfully
+29-08-2021 10:46:11 - [INFO] -  structure - (structure.py).drawgraph(line 18) - plots causal graph successfully
+29-08-2021 10:46:11 - [INFO] -  structure - (structure.py).drawgraph(line 18) - plots causal graph successfully
+29-08-2021 10:46:42 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 10:46:42 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 10:46:42 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 10:46:42 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 10:46:42 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 10:46:42 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 10:46:42 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 10:46:42 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 10:46:42 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 10:46:42 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 10:46:42 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 10:46:42 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 10:46:42 - [INFO] -  randomforest - (randomforest.py).splitdata(line 22) - splits data successfully.
+29-08-2021 10:46:42 - [INFO] -  randomforest - (randomforest.py).splitdata(line 22) - splits data successfully.
+29-08-2021 10:46:42 - [INFO] -  randomforest - (randomforest.py).splitdata(line 22) - splits data successfully.
+29-08-2021 10:46:42 - [INFO] -  randomforest - (randomforest.py).splitdata(line 22) - splits data successfully.
+29-08-2021 10:46:42 - [INFO] -  randomforest - (randomforest.py).splitdata(line 22) - splits data successfully.
+29-08-2021 10:46:42 - [INFO] -  randomforest - (randomforest.py).splitdata(line 22) - splits data successfully.
+29-08-2021 10:46:42 - [INFO] -  randomforest - (randomforest.py).splitdata(line 22) - splits data successfully.
+29-08-2021 10:46:43 - [INFO] -  file_read - (file_read.py).to_csv(line 13) - Csv file saved in ../input/extracted.csv.
+29-08-2021 10:46:43 - [INFO] -  file_read - (file_read.py).to_csv(line 13) - Csv file saved in ../input/extracted.csv.
+29-08-2021 10:46:43 - [INFO] -  file_read - (file_read.py).to_csv(line 13) - Csv file saved in ../input/extracted.csv.
+29-08-2021 10:46:43 - [INFO] -  file_read - (file_read.py).to_csv(line 13) - Csv file saved in ../input/extracted.csv.
+29-08-2021 10:46:43 - [INFO] -  file_read - (file_read.py).to_csv(line 13) - Csv file saved in ../input/extracted.csv.
+29-08-2021 10:46:43 - [INFO] -  file_read - (file_read.py).to_csv(line 13) - Csv file saved in ../input/extracted.csv.
+29-08-2021 10:50:46 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 10:50:46 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 10:50:46 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 10:50:46 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 10:50:46 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 10:50:46 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 10:50:46 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 10:50:46 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 10:50:46 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 10:50:46 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 10:50:46 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 10:50:46 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 10:50:46 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 10:50:46 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 10:50:46 - [INFO] -  randomforest - (randomforest.py).splitdata(line 22) - splits data successfully.
+29-08-2021 10:50:46 - [INFO] -  randomforest - (randomforest.py).splitdata(line 22) - splits data successfully.
+29-08-2021 10:50:46 - [INFO] -  randomforest - (randomforest.py).splitdata(line 22) - splits data successfully.
+29-08-2021 10:50:46 - [INFO] -  randomforest - (randomforest.py).splitdata(line 22) - splits data successfully.
+29-08-2021 10:50:46 - [INFO] -  randomforest - (randomforest.py).splitdata(line 22) - splits data successfully.
+29-08-2021 10:50:46 - [INFO] -  randomforest - (randomforest.py).splitdata(line 22) - splits data successfully.
+29-08-2021 10:50:46 - [INFO] -  randomforest - (randomforest.py).splitdata(line 22) - splits data successfully.
+29-08-2021 10:50:46 - [INFO] -  randomforest - (randomforest.py).splitdata(line 22) - splits data successfully.
+29-08-2021 10:50:47 - [INFO] -  file_read - (file_read.py).to_csv(line 13) - Csv file saved in ../input/extracted.csv.
+29-08-2021 10:50:47 - [INFO] -  file_read - (file_read.py).to_csv(line 13) - Csv file saved in ../input/extracted.csv.
+29-08-2021 10:50:47 - [INFO] -  file_read - (file_read.py).to_csv(line 13) - Csv file saved in ../input/extracted.csv.
+29-08-2021 10:50:47 - [INFO] -  file_read - (file_read.py).to_csv(line 13) - Csv file saved in ../input/extracted.csv.
+29-08-2021 10:50:47 - [INFO] -  file_read - (file_read.py).to_csv(line 13) - Csv file saved in ../input/extracted.csv.
+29-08-2021 10:50:47 - [INFO] -  file_read - (file_read.py).to_csv(line 13) - Csv file saved in ../input/extracted.csv.
+29-08-2021 10:50:47 - [INFO] -  file_read - (file_read.py).to_csv(line 13) - Csv file saved in ../input/extracted.csv.
+29-08-2021 10:53:52 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 10:53:52 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 10:53:52 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 10:53:53 - [INFO] -  file_read - (file_read.py).to_csv(line 13) - Csv file saved in ../input/extracted.csv.
+29-08-2021 10:56:37 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 10:56:37 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 10:56:37 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 10:56:37 - [INFO] -  file_read - (file_read.py).to_csv(line 13) - Csv file saved in ../input/extracted.csv.
+29-08-2021 10:57:57 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 10:57:58 - [ERROR] -  structure - (structure.py).drawgraph(line 34) - plots causal graph  failed.
+Traceback (most recent call last):
+  File "/home/neba/Downloads/Industry---Casualty-Challenge/scripts/structure.py", line 29, in drawgraph
+    mlflow.log_artifact(path)
+  File "/home/neba/.conda/envs/feature/lib/python3.7/site-packages/mlflow/tracking/fluent.py", line 550, in log_artifact
+    MlflowClient().log_artifact(run_id, local_path, artifact_path)
+  File "/home/neba/.conda/envs/feature/lib/python3.7/site-packages/mlflow/tracking/client.py", line 931, in log_artifact
+    self._tracking_client.log_artifact(run_id, local_path, artifact_path)
+  File "/home/neba/.conda/envs/feature/lib/python3.7/site-packages/mlflow/tracking/_tracking_service/client.py", line 325, in log_artifact
+    artifact_repo.log_artifact(local_path, artifact_path)
+  File "/home/neba/.conda/envs/feature/lib/python3.7/site-packages/mlflow/store/artifact/local_artifact_repo.py", line 38, in log_artifact
+    shutil.copyfile(local_file, os.path.join(artifact_dir, os.path.basename(local_file)))
+  File "/home/neba/.conda/envs/feature/lib/python3.7/shutil.py", line 120, in copyfile
+    with open(src, 'rb') as fsrc:
+FileNotFoundError: [Errno 2] No such file or directory: '../output/graph.png'
+29-08-2021 13:41:22 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 13:41:22 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 13:41:22 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 13:41:23 - [INFO] -  file_read - (file_read.py).to_csv(line 13) - Csv file saved in ../input/extracted.csv.
+29-08-2021 13:42:41 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 14:00:00 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 14:00:00 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 14:00:00 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 14:00:00 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 14:00:00 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 14:00:00 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 14:00:00 - [INFO] -  file_read - (file_read.py).to_csv(line 13) - Csv file saved in ../input/extracted.csv.
+29-08-2021 14:00:00 - [INFO] -  file_read - (file_read.py).to_csv(line 13) - Csv file saved in ../input/extracted.csv.
+29-08-2021 14:01:49 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 14:01:49 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 14:23:52 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 14:23:52 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 14:23:52 - [ERROR] -  structure - (structure.py).drawgraph(line 34) - plots causal graph  failed.
+Traceback (most recent call last):
+  File "/home/neba/Downloads/Industry---Casualty-Challenge/scripts/structure.py", line 29, in drawgraph
+    mlflow.log_artifact(path)
+  File "/home/neba/.conda/envs/feature/lib/python3.7/site-packages/mlflow/tracking/fluent.py", line 550, in log_artifact
+    MlflowClient().log_artifact(run_id, local_path, artifact_path)
+  File "/home/neba/.conda/envs/feature/lib/python3.7/site-packages/mlflow/tracking/client.py", line 931, in log_artifact
+    self._tracking_client.log_artifact(run_id, local_path, artifact_path)
+  File "/home/neba/.conda/envs/feature/lib/python3.7/site-packages/mlflow/tracking/_tracking_service/client.py", line 325, in log_artifact
+    artifact_repo.log_artifact(local_path, artifact_path)
+  File "/home/neba/.conda/envs/feature/lib/python3.7/site-packages/mlflow/store/artifact/local_artifact_repo.py", line 38, in log_artifact
+    shutil.copyfile(local_file, os.path.join(artifact_dir, os.path.basename(local_file)))
+  File "/home/neba/.conda/envs/feature/lib/python3.7/shutil.py", line 120, in copyfile
+    with open(src, 'rb') as fsrc:
+FileNotFoundError: [Errno 2] No such file or directory: '../output/graph1.png'
+29-08-2021 14:23:52 - [ERROR] -  structure - (structure.py).drawgraph(line 34) - plots causal graph  failed.
+Traceback (most recent call last):
+  File "/home/neba/Downloads/Industry---Casualty-Challenge/scripts/structure.py", line 29, in drawgraph
+    mlflow.log_artifact(path)
+  File "/home/neba/.conda/envs/feature/lib/python3.7/site-packages/mlflow/tracking/fluent.py", line 550, in log_artifact
+    MlflowClient().log_artifact(run_id, local_path, artifact_path)
+  File "/home/neba/.conda/envs/feature/lib/python3.7/site-packages/mlflow/tracking/client.py", line 931, in log_artifact
+    self._tracking_client.log_artifact(run_id, local_path, artifact_path)
+  File "/home/neba/.conda/envs/feature/lib/python3.7/site-packages/mlflow/tracking/_tracking_service/client.py", line 325, in log_artifact
+    artifact_repo.log_artifact(local_path, artifact_path)
+  File "/home/neba/.conda/envs/feature/lib/python3.7/site-packages/mlflow/store/artifact/local_artifact_repo.py", line 38, in log_artifact
+    shutil.copyfile(local_file, os.path.join(artifact_dir, os.path.basename(local_file)))
+  File "/home/neba/.conda/envs/feature/lib/python3.7/shutil.py", line 120, in copyfile
+    with open(src, 'rb') as fsrc:
+FileNotFoundError: [Errno 2] No such file or directory: '../output/graph1.png'
+29-08-2021 14:24:30 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 14:24:30 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 14:26:41 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 14:26:41 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 14:30:40 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 14:30:40 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 14:54:05 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 14:54:05 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 14:54:05 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 14:54:05 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 14:54:05 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 14:54:05 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 14:54:05 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 14:54:05 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 14:54:05 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 14:54:06 - [INFO] -  file_read - (file_read.py).to_csv(line 13) - Csv file saved in ../input/extracted.csv.
+29-08-2021 14:54:06 - [INFO] -  file_read - (file_read.py).to_csv(line 13) - Csv file saved in ../input/extracted.csv.
+29-08-2021 14:54:06 - [INFO] -  file_read - (file_read.py).to_csv(line 13) - Csv file saved in ../input/extracted.csv.
+29-08-2021 14:55:56 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 14:55:56 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 14:55:56 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 14:55:56 - [ERROR] -  structure - (structure.py).drawgraph(line 34) - plots causal graph  failed.
+Traceback (most recent call last):
+  File "/home/neba/Downloads/Industry---Casualty-Challenge/scripts/structure.py", line 29, in drawgraph
+    mlflow.log_artifact(path)
+  File "/home/neba/.conda/envs/feature/lib/python3.7/site-packages/mlflow/tracking/fluent.py", line 550, in log_artifact
+    MlflowClient().log_artifact(run_id, local_path, artifact_path)
+  File "/home/neba/.conda/envs/feature/lib/python3.7/site-packages/mlflow/tracking/client.py", line 931, in log_artifact
+    self._tracking_client.log_artifact(run_id, local_path, artifact_path)
+  File "/home/neba/.conda/envs/feature/lib/python3.7/site-packages/mlflow/tracking/_tracking_service/client.py", line 325, in log_artifact
+    artifact_repo.log_artifact(local_path, artifact_path)
+  File "/home/neba/.conda/envs/feature/lib/python3.7/site-packages/mlflow/store/artifact/local_artifact_repo.py", line 38, in log_artifact
+    shutil.copyfile(local_file, os.path.join(artifact_dir, os.path.basename(local_file)))
+  File "/home/neba/.conda/envs/feature/lib/python3.7/shutil.py", line 120, in copyfile
+    with open(src, 'rb') as fsrc:
+FileNotFoundError: [Errno 2] No such file or directory: '../output/graph.png'
+29-08-2021 14:55:56 - [ERROR] -  structure - (structure.py).drawgraph(line 34) - plots causal graph  failed.
+Traceback (most recent call last):
+  File "/home/neba/Downloads/Industry---Casualty-Challenge/scripts/structure.py", line 29, in drawgraph
+    mlflow.log_artifact(path)
+  File "/home/neba/.conda/envs/feature/lib/python3.7/site-packages/mlflow/tracking/fluent.py", line 550, in log_artifact
+    MlflowClient().log_artifact(run_id, local_path, artifact_path)
+  File "/home/neba/.conda/envs/feature/lib/python3.7/site-packages/mlflow/tracking/client.py", line 931, in log_artifact
+    self._tracking_client.log_artifact(run_id, local_path, artifact_path)
+  File "/home/neba/.conda/envs/feature/lib/python3.7/site-packages/mlflow/tracking/_tracking_service/client.py", line 325, in log_artifact
+    artifact_repo.log_artifact(local_path, artifact_path)
+  File "/home/neba/.conda/envs/feature/lib/python3.7/site-packages/mlflow/store/artifact/local_artifact_repo.py", line 38, in log_artifact
+    shutil.copyfile(local_file, os.path.join(artifact_dir, os.path.basename(local_file)))
+  File "/home/neba/.conda/envs/feature/lib/python3.7/shutil.py", line 120, in copyfile
+    with open(src, 'rb') as fsrc:
+FileNotFoundError: [Errno 2] No such file or directory: '../output/graph.png'
+29-08-2021 14:55:56 - [ERROR] -  structure - (structure.py).drawgraph(line 34) - plots causal graph  failed.
+Traceback (most recent call last):
+  File "/home/neba/Downloads/Industry---Casualty-Challenge/scripts/structure.py", line 29, in drawgraph
+    mlflow.log_artifact(path)
+  File "/home/neba/.conda/envs/feature/lib/python3.7/site-packages/mlflow/tracking/fluent.py", line 550, in log_artifact
+    MlflowClient().log_artifact(run_id, local_path, artifact_path)
+  File "/home/neba/.conda/envs/feature/lib/python3.7/site-packages/mlflow/tracking/client.py", line 931, in log_artifact
+    self._tracking_client.log_artifact(run_id, local_path, artifact_path)
+  File "/home/neba/.conda/envs/feature/lib/python3.7/site-packages/mlflow/tracking/_tracking_service/client.py", line 325, in log_artifact
+    artifact_repo.log_artifact(local_path, artifact_path)
+  File "/home/neba/.conda/envs/feature/lib/python3.7/site-packages/mlflow/store/artifact/local_artifact_repo.py", line 38, in log_artifact
+    shutil.copyfile(local_file, os.path.join(artifact_dir, os.path.basename(local_file)))
+  File "/home/neba/.conda/envs/feature/lib/python3.7/shutil.py", line 120, in copyfile
+    with open(src, 'rb') as fsrc:
+FileNotFoundError: [Errno 2] No such file or directory: '../output/graph.png'
+29-08-2021 14:57:47 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 14:57:47 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 14:57:47 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 14:58:40 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 14:58:40 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 14:58:40 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 14:58:40 - [ERROR] -  structure - (structure.py).drawgraph(line 34) - plots causal graph  failed.
+Traceback (most recent call last):
+  File "/home/neba/Downloads/Industry---Casualty-Challenge/scripts/structure.py", line 29, in drawgraph
+    mlflow.log_artifact(path)
+  File "/home/neba/.conda/envs/feature/lib/python3.7/site-packages/mlflow/tracking/fluent.py", line 550, in log_artifact
+    MlflowClient().log_artifact(run_id, local_path, artifact_path)
+  File "/home/neba/.conda/envs/feature/lib/python3.7/site-packages/mlflow/tracking/client.py", line 931, in log_artifact
+    self._tracking_client.log_artifact(run_id, local_path, artifact_path)
+  File "/home/neba/.conda/envs/feature/lib/python3.7/site-packages/mlflow/tracking/_tracking_service/client.py", line 325, in log_artifact
+    artifact_repo.log_artifact(local_path, artifact_path)
+  File "/home/neba/.conda/envs/feature/lib/python3.7/site-packages/mlflow/store/artifact/local_artifact_repo.py", line 38, in log_artifact
+    shutil.copyfile(local_file, os.path.join(artifact_dir, os.path.basename(local_file)))
+  File "/home/neba/.conda/envs/feature/lib/python3.7/shutil.py", line 120, in copyfile
+    with open(src, 'rb') as fsrc:
+FileNotFoundError: [Errno 2] No such file or directory: '../output/graph2.png'
+29-08-2021 14:58:40 - [ERROR] -  structure - (structure.py).drawgraph(line 34) - plots causal graph  failed.
+Traceback (most recent call last):
+  File "/home/neba/Downloads/Industry---Casualty-Challenge/scripts/structure.py", line 29, in drawgraph
+    mlflow.log_artifact(path)
+  File "/home/neba/.conda/envs/feature/lib/python3.7/site-packages/mlflow/tracking/fluent.py", line 550, in log_artifact
+    MlflowClient().log_artifact(run_id, local_path, artifact_path)
+  File "/home/neba/.conda/envs/feature/lib/python3.7/site-packages/mlflow/tracking/client.py", line 931, in log_artifact
+    self._tracking_client.log_artifact(run_id, local_path, artifact_path)
+  File "/home/neba/.conda/envs/feature/lib/python3.7/site-packages/mlflow/tracking/_tracking_service/client.py", line 325, in log_artifact
+    artifact_repo.log_artifact(local_path, artifact_path)
+  File "/home/neba/.conda/envs/feature/lib/python3.7/site-packages/mlflow/store/artifact/local_artifact_repo.py", line 38, in log_artifact
+    shutil.copyfile(local_file, os.path.join(artifact_dir, os.path.basename(local_file)))
+  File "/home/neba/.conda/envs/feature/lib/python3.7/shutil.py", line 120, in copyfile
+    with open(src, 'rb') as fsrc:
+FileNotFoundError: [Errno 2] No such file or directory: '../output/graph2.png'
+29-08-2021 14:58:40 - [ERROR] -  structure - (structure.py).drawgraph(line 34) - plots causal graph  failed.
+Traceback (most recent call last):
+  File "/home/neba/Downloads/Industry---Casualty-Challenge/scripts/structure.py", line 29, in drawgraph
+    mlflow.log_artifact(path)
+  File "/home/neba/.conda/envs/feature/lib/python3.7/site-packages/mlflow/tracking/fluent.py", line 550, in log_artifact
+    MlflowClient().log_artifact(run_id, local_path, artifact_path)
+  File "/home/neba/.conda/envs/feature/lib/python3.7/site-packages/mlflow/tracking/client.py", line 931, in log_artifact
+    self._tracking_client.log_artifact(run_id, local_path, artifact_path)
+  File "/home/neba/.conda/envs/feature/lib/python3.7/site-packages/mlflow/tracking/_tracking_service/client.py", line 325, in log_artifact
+    artifact_repo.log_artifact(local_path, artifact_path)
+  File "/home/neba/.conda/envs/feature/lib/python3.7/site-packages/mlflow/store/artifact/local_artifact_repo.py", line 38, in log_artifact
+    shutil.copyfile(local_file, os.path.join(artifact_dir, os.path.basename(local_file)))
+  File "/home/neba/.conda/envs/feature/lib/python3.7/shutil.py", line 120, in copyfile
+    with open(src, 'rb') as fsrc:
+FileNotFoundError: [Errno 2] No such file or directory: '../output/graph2.png'
+29-08-2021 14:59:05 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 14:59:05 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 14:59:05 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 14:59:05 - [ERROR] -  structure - (structure.py).drawgraph(line 34) - plots causal graph  failed.
+Traceback (most recent call last):
+  File "/home/neba/Downloads/Industry---Casualty-Challenge/scripts/structure.py", line 29, in drawgraph
+    mlflow.log_artifact(path)
+  File "/home/neba/.conda/envs/feature/lib/python3.7/site-packages/mlflow/tracking/fluent.py", line 550, in log_artifact
+    MlflowClient().log_artifact(run_id, local_path, artifact_path)
+  File "/home/neba/.conda/envs/feature/lib/python3.7/site-packages/mlflow/tracking/client.py", line 931, in log_artifact
+    self._tracking_client.log_artifact(run_id, local_path, artifact_path)
+  File "/home/neba/.conda/envs/feature/lib/python3.7/site-packages/mlflow/tracking/_tracking_service/client.py", line 325, in log_artifact
+    artifact_repo.log_artifact(local_path, artifact_path)
+  File "/home/neba/.conda/envs/feature/lib/python3.7/site-packages/mlflow/store/artifact/local_artifact_repo.py", line 38, in log_artifact
+    shutil.copyfile(local_file, os.path.join(artifact_dir, os.path.basename(local_file)))
+  File "/home/neba/.conda/envs/feature/lib/python3.7/shutil.py", line 120, in copyfile
+    with open(src, 'rb') as fsrc:
+FileNotFoundError: [Errno 2] No such file or directory: '../output/graph3.png'
+29-08-2021 14:59:05 - [ERROR] -  structure - (structure.py).drawgraph(line 34) - plots causal graph  failed.
+Traceback (most recent call last):
+  File "/home/neba/Downloads/Industry---Casualty-Challenge/scripts/structure.py", line 29, in drawgraph
+    mlflow.log_artifact(path)
+  File "/home/neba/.conda/envs/feature/lib/python3.7/site-packages/mlflow/tracking/fluent.py", line 550, in log_artifact
+    MlflowClient().log_artifact(run_id, local_path, artifact_path)
+  File "/home/neba/.conda/envs/feature/lib/python3.7/site-packages/mlflow/tracking/client.py", line 931, in log_artifact
+    self._tracking_client.log_artifact(run_id, local_path, artifact_path)
+  File "/home/neba/.conda/envs/feature/lib/python3.7/site-packages/mlflow/tracking/_tracking_service/client.py", line 325, in log_artifact
+    artifact_repo.log_artifact(local_path, artifact_path)
+  File "/home/neba/.conda/envs/feature/lib/python3.7/site-packages/mlflow/store/artifact/local_artifact_repo.py", line 38, in log_artifact
+    shutil.copyfile(local_file, os.path.join(artifact_dir, os.path.basename(local_file)))
+  File "/home/neba/.conda/envs/feature/lib/python3.7/shutil.py", line 120, in copyfile
+    with open(src, 'rb') as fsrc:
+FileNotFoundError: [Errno 2] No such file or directory: '../output/graph3.png'
+29-08-2021 14:59:05 - [ERROR] -  structure - (structure.py).drawgraph(line 34) - plots causal graph  failed.
+Traceback (most recent call last):
+  File "/home/neba/Downloads/Industry---Casualty-Challenge/scripts/structure.py", line 29, in drawgraph
+    mlflow.log_artifact(path)
+  File "/home/neba/.conda/envs/feature/lib/python3.7/site-packages/mlflow/tracking/fluent.py", line 550, in log_artifact
+    MlflowClient().log_artifact(run_id, local_path, artifact_path)
+  File "/home/neba/.conda/envs/feature/lib/python3.7/site-packages/mlflow/tracking/client.py", line 931, in log_artifact
+    self._tracking_client.log_artifact(run_id, local_path, artifact_path)
+  File "/home/neba/.conda/envs/feature/lib/python3.7/site-packages/mlflow/tracking/_tracking_service/client.py", line 325, in log_artifact
+    artifact_repo.log_artifact(local_path, artifact_path)
+  File "/home/neba/.conda/envs/feature/lib/python3.7/site-packages/mlflow/store/artifact/local_artifact_repo.py", line 38, in log_artifact
+    shutil.copyfile(local_file, os.path.join(artifact_dir, os.path.basename(local_file)))
+  File "/home/neba/.conda/envs/feature/lib/python3.7/shutil.py", line 120, in copyfile
+    with open(src, 'rb') as fsrc:
+FileNotFoundError: [Errno 2] No such file or directory: '../output/graph3.png'
+29-08-2021 14:59:30 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 14:59:30 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 14:59:30 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 14:59:30 - [ERROR] -  structure - (structure.py).drawgraph(line 34) - plots causal graph  failed.
+Traceback (most recent call last):
+  File "/home/neba/Downloads/Industry---Casualty-Challenge/scripts/structure.py", line 29, in drawgraph
+    mlflow.log_artifact(path)
+  File "/home/neba/.conda/envs/feature/lib/python3.7/site-packages/mlflow/tracking/fluent.py", line 550, in log_artifact
+    MlflowClient().log_artifact(run_id, local_path, artifact_path)
+  File "/home/neba/.conda/envs/feature/lib/python3.7/site-packages/mlflow/tracking/client.py", line 931, in log_artifact
+    self._tracking_client.log_artifact(run_id, local_path, artifact_path)
+  File "/home/neba/.conda/envs/feature/lib/python3.7/site-packages/mlflow/tracking/_tracking_service/client.py", line 325, in log_artifact
+    artifact_repo.log_artifact(local_path, artifact_path)
+  File "/home/neba/.conda/envs/feature/lib/python3.7/site-packages/mlflow/store/artifact/local_artifact_repo.py", line 38, in log_artifact
+    shutil.copyfile(local_file, os.path.join(artifact_dir, os.path.basename(local_file)))
+  File "/home/neba/.conda/envs/feature/lib/python3.7/shutil.py", line 120, in copyfile
+    with open(src, 'rb') as fsrc:
+FileNotFoundError: [Errno 2] No such file or directory: '../output/graph4.png'
+29-08-2021 14:59:30 - [ERROR] -  structure - (structure.py).drawgraph(line 34) - plots causal graph  failed.
+Traceback (most recent call last):
+  File "/home/neba/Downloads/Industry---Casualty-Challenge/scripts/structure.py", line 29, in drawgraph
+    mlflow.log_artifact(path)
+  File "/home/neba/.conda/envs/feature/lib/python3.7/site-packages/mlflow/tracking/fluent.py", line 550, in log_artifact
+    MlflowClient().log_artifact(run_id, local_path, artifact_path)
+  File "/home/neba/.conda/envs/feature/lib/python3.7/site-packages/mlflow/tracking/client.py", line 931, in log_artifact
+    self._tracking_client.log_artifact(run_id, local_path, artifact_path)
+  File "/home/neba/.conda/envs/feature/lib/python3.7/site-packages/mlflow/tracking/_tracking_service/client.py", line 325, in log_artifact
+    artifact_repo.log_artifact(local_path, artifact_path)
+  File "/home/neba/.conda/envs/feature/lib/python3.7/site-packages/mlflow/store/artifact/local_artifact_repo.py", line 38, in log_artifact
+    shutil.copyfile(local_file, os.path.join(artifact_dir, os.path.basename(local_file)))
+  File "/home/neba/.conda/envs/feature/lib/python3.7/shutil.py", line 120, in copyfile
+    with open(src, 'rb') as fsrc:
+FileNotFoundError: [Errno 2] No such file or directory: '../output/graph4.png'
+29-08-2021 14:59:30 - [ERROR] -  structure - (structure.py).drawgraph(line 34) - plots causal graph  failed.
+Traceback (most recent call last):
+  File "/home/neba/Downloads/Industry---Casualty-Challenge/scripts/structure.py", line 29, in drawgraph
+    mlflow.log_artifact(path)
+  File "/home/neba/.conda/envs/feature/lib/python3.7/site-packages/mlflow/tracking/fluent.py", line 550, in log_artifact
+    MlflowClient().log_artifact(run_id, local_path, artifact_path)
+  File "/home/neba/.conda/envs/feature/lib/python3.7/site-packages/mlflow/tracking/client.py", line 931, in log_artifact
+    self._tracking_client.log_artifact(run_id, local_path, artifact_path)
+  File "/home/neba/.conda/envs/feature/lib/python3.7/site-packages/mlflow/tracking/_tracking_service/client.py", line 325, in log_artifact
+    artifact_repo.log_artifact(local_path, artifact_path)
+  File "/home/neba/.conda/envs/feature/lib/python3.7/site-packages/mlflow/store/artifact/local_artifact_repo.py", line 38, in log_artifact
+    shutil.copyfile(local_file, os.path.join(artifact_dir, os.path.basename(local_file)))
+  File "/home/neba/.conda/envs/feature/lib/python3.7/shutil.py", line 120, in copyfile
+    with open(src, 'rb') as fsrc:
+FileNotFoundError: [Errno 2] No such file or directory: '../output/graph4.png'
+29-08-2021 15:05:25 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 15:05:25 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 15:05:25 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 15:05:25 - [ERROR] -  structure - (structure.py).drawgraph(line 34) - plots causal graph  failed.
+Traceback (most recent call last):
+  File "/home/neba/Downloads/Industry---Casualty-Challenge/scripts/structure.py", line 29, in drawgraph
+    mlflow.log_artifact(path)
+  File "/home/neba/.conda/envs/feature/lib/python3.7/site-packages/mlflow/tracking/fluent.py", line 550, in log_artifact
+    MlflowClient().log_artifact(run_id, local_path, artifact_path)
+  File "/home/neba/.conda/envs/feature/lib/python3.7/site-packages/mlflow/tracking/client.py", line 931, in log_artifact
+    self._tracking_client.log_artifact(run_id, local_path, artifact_path)
+  File "/home/neba/.conda/envs/feature/lib/python3.7/site-packages/mlflow/tracking/_tracking_service/client.py", line 325, in log_artifact
+    artifact_repo.log_artifact(local_path, artifact_path)
+  File "/home/neba/.conda/envs/feature/lib/python3.7/site-packages/mlflow/store/artifact/local_artifact_repo.py", line 38, in log_artifact
+    shutil.copyfile(local_file, os.path.join(artifact_dir, os.path.basename(local_file)))
+  File "/home/neba/.conda/envs/feature/lib/python3.7/shutil.py", line 120, in copyfile
+    with open(src, 'rb') as fsrc:
+FileNotFoundError: [Errno 2] No such file or directory: '../output/graph'
+29-08-2021 15:05:25 - [ERROR] -  structure - (structure.py).drawgraph(line 34) - plots causal graph  failed.
+Traceback (most recent call last):
+  File "/home/neba/Downloads/Industry---Casualty-Challenge/scripts/structure.py", line 29, in drawgraph
+    mlflow.log_artifact(path)
+  File "/home/neba/.conda/envs/feature/lib/python3.7/site-packages/mlflow/tracking/fluent.py", line 550, in log_artifact
+    MlflowClient().log_artifact(run_id, local_path, artifact_path)
+  File "/home/neba/.conda/envs/feature/lib/python3.7/site-packages/mlflow/tracking/client.py", line 931, in log_artifact
+    self._tracking_client.log_artifact(run_id, local_path, artifact_path)
+  File "/home/neba/.conda/envs/feature/lib/python3.7/site-packages/mlflow/tracking/_tracking_service/client.py", line 325, in log_artifact
+    artifact_repo.log_artifact(local_path, artifact_path)
+  File "/home/neba/.conda/envs/feature/lib/python3.7/site-packages/mlflow/store/artifact/local_artifact_repo.py", line 38, in log_artifact
+    shutil.copyfile(local_file, os.path.join(artifact_dir, os.path.basename(local_file)))
+  File "/home/neba/.conda/envs/feature/lib/python3.7/shutil.py", line 120, in copyfile
+    with open(src, 'rb') as fsrc:
+FileNotFoundError: [Errno 2] No such file or directory: '../output/graph'
+29-08-2021 15:05:25 - [ERROR] -  structure - (structure.py).drawgraph(line 34) - plots causal graph  failed.
+Traceback (most recent call last):
+  File "/home/neba/Downloads/Industry---Casualty-Challenge/scripts/structure.py", line 29, in drawgraph
+    mlflow.log_artifact(path)
+  File "/home/neba/.conda/envs/feature/lib/python3.7/site-packages/mlflow/tracking/fluent.py", line 550, in log_artifact
+    MlflowClient().log_artifact(run_id, local_path, artifact_path)
+  File "/home/neba/.conda/envs/feature/lib/python3.7/site-packages/mlflow/tracking/client.py", line 931, in log_artifact
+    self._tracking_client.log_artifact(run_id, local_path, artifact_path)
+  File "/home/neba/.conda/envs/feature/lib/python3.7/site-packages/mlflow/tracking/_tracking_service/client.py", line 325, in log_artifact
+    artifact_repo.log_artifact(local_path, artifact_path)
+  File "/home/neba/.conda/envs/feature/lib/python3.7/site-packages/mlflow/store/artifact/local_artifact_repo.py", line 38, in log_artifact
+    shutil.copyfile(local_file, os.path.join(artifact_dir, os.path.basename(local_file)))
+  File "/home/neba/.conda/envs/feature/lib/python3.7/shutil.py", line 120, in copyfile
+    with open(src, 'rb') as fsrc:
+FileNotFoundError: [Errno 2] No such file or directory: '../output/graph'
+29-08-2021 15:05:44 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 15:05:44 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 15:05:44 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 15:34:00 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 15:34:00 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 15:34:00 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 15:34:00 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 15:34:00 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 15:34:00 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 15:34:00 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 15:34:00 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 15:34:00 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 15:34:00 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 15:34:00 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 15:34:00 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 15:34:01 - [INFO] -  file_read - (file_read.py).to_csv(line 13) - Csv file saved in ../input/extracted.csv.
+29-08-2021 15:34:01 - [INFO] -  file_read - (file_read.py).to_csv(line 13) - Csv file saved in ../input/extracted.csv.
+29-08-2021 15:34:01 - [INFO] -  file_read - (file_read.py).to_csv(line 13) - Csv file saved in ../input/extracted.csv.
+29-08-2021 15:34:01 - [INFO] -  file_read - (file_read.py).to_csv(line 13) - Csv file saved in ../input/extracted.csv.
+29-08-2021 15:37:33 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 15:37:33 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 15:37:33 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 15:37:33 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 15:38:49 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 15:38:49 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 15:38:49 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 15:38:49 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 15:39:25 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 15:39:25 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 15:39:25 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 15:39:25 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 15:39:51 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 15:39:51 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 15:39:51 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 15:39:51 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 15:40:14 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 15:40:14 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 15:40:14 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 15:40:14 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 15:45:22 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 15:45:22 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 15:45:22 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 15:45:22 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 15:49:43 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 15:49:43 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 15:49:43 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 15:49:43 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 15:49:43 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 15:49:43 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 15:49:43 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 15:49:43 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 15:49:43 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 15:49:43 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 15:49:43 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 15:49:43 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 15:49:43 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 15:49:43 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 15:49:43 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 15:49:43 - [INFO] -  file_read - (file_read.py).to_csv(line 13) - Csv file saved in ../input/extracted.csv.
+29-08-2021 15:49:43 - [INFO] -  file_read - (file_read.py).to_csv(line 13) - Csv file saved in ../input/extracted.csv.
+29-08-2021 15:49:43 - [INFO] -  file_read - (file_read.py).to_csv(line 13) - Csv file saved in ../input/extracted.csv.
+29-08-2021 15:49:43 - [INFO] -  file_read - (file_read.py).to_csv(line 13) - Csv file saved in ../input/extracted.csv.
+29-08-2021 15:49:43 - [INFO] -  file_read - (file_read.py).to_csv(line 13) - Csv file saved in ../input/extracted.csv.
+29-08-2021 15:51:07 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 15:51:07 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 15:51:07 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 15:51:07 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 15:51:07 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 15:52:07 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 15:52:07 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 15:52:07 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 15:52:07 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 15:52:07 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 15:52:38 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 15:52:38 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 15:52:38 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 15:52:38 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 15:52:38 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 15:53:01 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 15:53:01 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 15:53:01 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 15:53:01 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 15:53:01 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 15:53:17 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 15:53:17 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 15:53:17 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 15:53:17 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 15:53:17 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 15:53:41 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 15:53:41 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 15:53:41 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 15:53:41 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 15:53:41 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 15:54:18 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 15:54:18 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 15:54:18 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 15:54:18 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 15:54:18 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 15:54:48 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 15:54:48 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 15:54:48 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 15:54:48 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 15:54:48 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 15:55:31 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 15:55:31 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 15:55:31 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 15:55:31 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 15:55:31 - [INFO] -  structure - (structure.py).drawgraph(line 23) - plots causal graph successfully
+29-08-2021 15:55:31 - [ERROR] -  structure - (structure.py).drawgraph(line 34) - plots causal graph  failed.
+Traceback (most recent call last):
+  File "/home/neba/Downloads/Industry---Casualty-Challenge/scripts/structure.py", line 20, in drawgraph
+    mlflow.set_experiment('Breast cancer Causality')
+  File "/home/neba/.conda/envs/feature/lib/python3.7/site-packages/causalnex/structure/structuremodel.py", line 252, in remove_edges_below_threshold
+    [(u, v) for u, v, w in self.edges(data="weight") if np.abs(w) < threshold]
+  File "/home/neba/.conda/envs/feature/lib/python3.7/site-packages/causalnex/structure/structuremodel.py", line 252, in <listcomp>
+    [(u, v) for u, v, w in self.edges(data="weight") if np.abs(w) < threshold]
+TypeError: bad operand type for abs(): 'NoneType'
+29-08-2021 15:55:31 - [ERROR] -  structure - (structure.py).drawgraph(line 34) - plots causal graph  failed.
+Traceback (most recent call last):
+  File "/home/neba/Downloads/Industry---Casualty-Challenge/scripts/structure.py", line 20, in drawgraph
+    mlflow.set_experiment('Breast cancer Causality')
+  File "/home/neba/.conda/envs/feature/lib/python3.7/site-packages/causalnex/structure/structuremodel.py", line 252, in remove_edges_below_threshold
+    [(u, v) for u, v, w in self.edges(data="weight") if np.abs(w) < threshold]
+  File "/home/neba/.conda/envs/feature/lib/python3.7/site-packages/causalnex/structure/structuremodel.py", line 252, in <listcomp>
+    [(u, v) for u, v, w in self.edges(data="weight") if np.abs(w) < threshold]
+TypeError: bad operand type for abs(): 'NoneType'
+29-08-2021 15:55:31 - [ERROR] -  structure - (structure.py).drawgraph(line 34) - plots causal graph  failed.
+Traceback (most recent call last):
+  File "/home/neba/Downloads/Industry---Casualty-Challenge/scripts/structure.py", line 20, in drawgraph
+    mlflow.set_experiment('Breast cancer Causality')
+  File "/home/neba/.conda/envs/feature/lib/python3.7/site-packages/causalnex/structure/structuremodel.py", line 252, in remove_edges_below_threshold
+    [(u, v) for u, v, w in self.edges(data="weight") if np.abs(w) < threshold]
+  File "/home/neba/.conda/envs/feature/lib/python3.7/site-packages/causalnex/structure/structuremodel.py", line 252, in <listcomp>
+    [(u, v) for u, v, w in self.edges(data="weight") if np.abs(w) < threshold]
+TypeError: bad operand type for abs(): 'NoneType'
+29-08-2021 15:55:31 - [ERROR] -  structure - (structure.py).drawgraph(line 34) - plots causal graph  failed.
+Traceback (most recent call last):
+  File "/home/neba/Downloads/Industry---Casualty-Challenge/scripts/structure.py", line 20, in drawgraph
+    mlflow.set_experiment('Breast cancer Causality')
+  File "/home/neba/.conda/envs/feature/lib/python3.7/site-packages/causalnex/structure/structuremodel.py", line 252, in remove_edges_below_threshold
+    [(u, v) for u, v, w in self.edges(data="weight") if np.abs(w) < threshold]
+  File "/home/neba/.conda/envs/feature/lib/python3.7/site-packages/causalnex/structure/structuremodel.py", line 252, in <listcomp>
+    [(u, v) for u, v, w in self.edges(data="weight") if np.abs(w) < threshold]
+TypeError: bad operand type for abs(): 'NoneType'
+29-08-2021 15:55:31 - [ERROR] -  structure - (structure.py).drawgraph(line 34) - plots causal graph  failed.
+Traceback (most recent call last):
+  File "/home/neba/Downloads/Industry---Casualty-Challenge/scripts/structure.py", line 20, in drawgraph
+    mlflow.set_experiment('Breast cancer Causality')
+  File "/home/neba/.conda/envs/feature/lib/python3.7/site-packages/causalnex/structure/structuremodel.py", line 252, in remove_edges_below_threshold
+    [(u, v) for u, v, w in self.edges(data="weight") if np.abs(w) < threshold]
+  File "/home/neba/.conda/envs/feature/lib/python3.7/site-packages/causalnex/structure/structuremodel.py", line 252, in <listcomp>
+    [(u, v) for u, v, w in self.edges(data="weight") if np.abs(w) < threshold]
+TypeError: bad operand type for abs(): 'NoneType'
+29-08-2021 15:58:31 - [INFO] -  structure - (structure.py).drawgraphs(line 53) - plots causal graph successfully
+29-08-2021 15:58:31 - [INFO] -  structure - (structure.py).drawgraphs(line 53) - plots causal graph successfully
+29-08-2021 15:58:31 - [INFO] -  structure - (structure.py).drawgraphs(line 53) - plots causal graph successfully
+29-08-2021 15:58:31 - [INFO] -  structure - (structure.py).drawgraphs(line 53) - plots causal graph successfully
+29-08-2021 15:58:31 - [INFO] -  structure - (structure.py).drawgraphs(line 53) - plots causal graph successfully
+29-08-2021 15:59:28 - [INFO] -  structure - (structure.py).drawgraphs(line 53) - plots causal graph successfully
+29-08-2021 15:59:28 - [INFO] -  structure - (structure.py).drawgraphs(line 53) - plots causal graph successfully
+29-08-2021 15:59:28 - [INFO] -  structure - (structure.py).drawgraphs(line 53) - plots causal graph successfully
+29-08-2021 15:59:28 - [INFO] -  structure - (structure.py).drawgraphs(line 53) - plots causal graph successfully
+29-08-2021 15:59:28 - [INFO] -  structure - (structure.py).drawgraphs(line 53) - plots causal graph successfully
+29-08-2021 15:59:39 - [INFO] -  structure - (structure.py).drawgraphs(line 53) - plots causal graph successfully
+29-08-2021 15:59:39 - [INFO] -  structure - (structure.py).drawgraphs(line 53) - plots causal graph successfully
+29-08-2021 15:59:39 - [INFO] -  structure - (structure.py).drawgraphs(line 53) - plots causal graph successfully
+29-08-2021 15:59:39 - [INFO] -  structure - (structure.py).drawgraphs(line 53) - plots causal graph successfully
+29-08-2021 15:59:39 - [INFO] -  structure - (structure.py).drawgraphs(line 53) - plots causal graph successfully
+29-08-2021 16:01:15 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:01:15 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:01:15 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:01:15 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:01:15 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:01:15 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:01:19 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:01:19 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:01:19 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:01:19 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:01:19 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:01:19 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:01:19 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:04:31 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:04:31 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:04:31 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:04:31 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:04:31 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:04:31 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:04:31 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:04:31 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:04:31 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:08:30 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 16:08:30 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 16:08:30 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 16:08:30 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 16:08:30 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 16:08:36 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 16:08:36 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 16:08:36 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 16:08:36 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 16:08:36 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 16:08:36 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 16:08:41 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:08:41 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:08:41 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:08:41 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:08:41 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:08:41 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:08:41 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:08:41 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:08:41 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:08:41 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:09:00 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:09:00 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:09:00 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:09:00 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:09:00 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:09:00 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:09:00 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:09:00 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:09:00 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:09:00 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:09:00 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:10:31 - [ERROR] -  randomforest - (randomforest.py).accuracy(line 48) - failed to do confusion matrix.
+Traceback (most recent call last):
+  File "/home/neba/Downloads/Industry---Casualty-Challenge/scripts/randomforest.py", line 41, in accuracy
+TypeError: randomforest() missing 1 required positional argument: 'y_train'
+29-08-2021 16:10:31 - [ERROR] -  randomforest - (randomforest.py).accuracy(line 48) - failed to do confusion matrix.
+Traceback (most recent call last):
+  File "/home/neba/Downloads/Industry---Casualty-Challenge/scripts/randomforest.py", line 41, in accuracy
+TypeError: randomforest() missing 1 required positional argument: 'y_train'
+29-08-2021 16:10:31 - [ERROR] -  randomforest - (randomforest.py).accuracy(line 48) - failed to do confusion matrix.
+Traceback (most recent call last):
+  File "/home/neba/Downloads/Industry---Casualty-Challenge/scripts/randomforest.py", line 41, in accuracy
+TypeError: randomforest() missing 1 required positional argument: 'y_train'
+29-08-2021 16:10:31 - [ERROR] -  randomforest - (randomforest.py).accuracy(line 48) - failed to do confusion matrix.
+Traceback (most recent call last):
+  File "/home/neba/Downloads/Industry---Casualty-Challenge/scripts/randomforest.py", line 41, in accuracy
+TypeError: randomforest() missing 1 required positional argument: 'y_train'
+29-08-2021 16:10:31 - [ERROR] -  randomforest - (randomforest.py).accuracy(line 48) - failed to do confusion matrix.
+Traceback (most recent call last):
+  File "/home/neba/Downloads/Industry---Casualty-Challenge/scripts/randomforest.py", line 41, in accuracy
+TypeError: randomforest() missing 1 required positional argument: 'y_train'
+29-08-2021 16:10:31 - [ERROR] -  randomforest - (randomforest.py).accuracy(line 48) - failed to do confusion matrix.
+Traceback (most recent call last):
+  File "/home/neba/Downloads/Industry---Casualty-Challenge/scripts/randomforest.py", line 41, in accuracy
+TypeError: randomforest() missing 1 required positional argument: 'y_train'
+29-08-2021 16:10:31 - [ERROR] -  randomforest - (randomforest.py).accuracy(line 48) - failed to do confusion matrix.
+Traceback (most recent call last):
+  File "/home/neba/Downloads/Industry---Casualty-Challenge/scripts/randomforest.py", line 41, in accuracy
+TypeError: randomforest() missing 1 required positional argument: 'y_train'
+29-08-2021 16:10:31 - [ERROR] -  randomforest - (randomforest.py).accuracy(line 48) - failed to do confusion matrix.
+Traceback (most recent call last):
+  File "/home/neba/Downloads/Industry---Casualty-Challenge/scripts/randomforest.py", line 41, in accuracy
+TypeError: randomforest() missing 1 required positional argument: 'y_train'
+29-08-2021 16:10:31 - [ERROR] -  randomforest - (randomforest.py).accuracy(line 48) - failed to do confusion matrix.
+Traceback (most recent call last):
+  File "/home/neba/Downloads/Industry---Casualty-Challenge/scripts/randomforest.py", line 41, in accuracy
+TypeError: randomforest() missing 1 required positional argument: 'y_train'
+29-08-2021 16:10:31 - [ERROR] -  randomforest - (randomforest.py).accuracy(line 48) - failed to do confusion matrix.
+Traceback (most recent call last):
+  File "/home/neba/Downloads/Industry---Casualty-Challenge/scripts/randomforest.py", line 41, in accuracy
+TypeError: randomforest() missing 1 required positional argument: 'y_train'
+29-08-2021 16:10:31 - [ERROR] -  randomforest - (randomforest.py).accuracy(line 48) - failed to do confusion matrix.
+Traceback (most recent call last):
+  File "/home/neba/Downloads/Industry---Casualty-Challenge/scripts/randomforest.py", line 41, in accuracy
+TypeError: randomforest() missing 1 required positional argument: 'y_train'
+29-08-2021 16:13:40 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 16:13:40 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 16:13:40 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 16:13:40 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 16:13:40 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 16:13:40 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 16:13:50 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 16:13:50 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 16:13:50 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 16:13:50 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 16:13:50 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 16:13:50 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 16:13:50 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 16:13:55 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:13:55 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:13:55 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:13:55 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:13:55 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:13:55 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:13:55 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:13:55 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:13:55 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:13:55 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:13:55 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:13:55 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:14:10 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:14:10 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:14:10 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:14:10 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:14:10 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:14:10 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:14:10 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:14:10 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:14:10 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:14:10 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:14:10 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:14:10 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:14:10 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:16:34 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:16:34 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:16:34 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:16:34 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:16:34 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:16:34 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:16:34 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:16:34 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:16:34 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:16:34 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:16:34 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:16:34 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:16:34 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:16:34 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:17:14 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 16:17:14 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 16:17:14 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 16:17:14 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 16:17:14 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 16:17:14 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 16:17:16 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 16:17:16 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 16:17:16 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 16:17:16 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 16:17:16 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 16:17:16 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 16:17:16 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 16:17:16 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 16:17:24 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:17:24 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:17:24 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:17:24 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:17:24 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:17:24 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:17:24 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:17:24 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:17:24 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:17:24 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:17:24 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:17:24 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:17:24 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:17:24 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:17:24 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:17:38 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:17:38 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:17:38 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:17:38 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:17:38 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:17:38 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:17:38 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:17:38 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:17:38 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:17:38 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:17:38 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:17:38 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:17:38 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:17:38 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:17:38 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:17:38 - [ERROR] -  randomforest - (randomforest.py).randomforest(line 34) - train model.
+NoneType: None
+29-08-2021 16:23:44 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 16:23:44 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 16:23:44 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 16:23:44 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 16:23:44 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 16:23:44 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 16:23:44 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 16:23:47 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 16:23:47 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 16:23:47 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 16:23:47 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 16:23:47 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 16:23:47 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 16:23:47 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 16:23:47 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 16:23:47 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 16:23:52 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:23:52 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:23:52 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:23:52 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:23:52 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:23:52 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:23:52 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:23:52 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:23:52 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:23:52 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:23:52 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:23:52 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:23:52 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:23:52 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:23:52 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:23:52 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:23:52 - [INFO] -  randomforest - (randomforest.py).splitdata(line 23) - splits data successfully.
+29-08-2021 16:28:56 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 16:29:02 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 16:29:09 - [INFO] -  randomforest - (randomforest.py).splitdata(line 25) - splits data successfully.
+29-08-2021 16:29:19 - [INFO] -  randomforest - (randomforest.py).splitdata(line 25) - splits data successfully.
+29-08-2021 16:29:19 - [INFO] -  randomforest - (randomforest.py).splitdata(line 25) - splits data successfully.
+29-08-2021 16:30:14 - [INFO] -  randomforest - (randomforest.py).randomforest(line 37) - train model.
+29-08-2021 16:30:14 - [INFO] -  randomforest - (randomforest.py).randomforest(line 37) - train model.
+29-08-2021 16:30:14 - [INFO] -  randomforest - (randomforest.py).randomforest(line 37) - train model.
+29-08-2021 16:30:25 - [INFO] -  randomforest - (randomforest.py).randomforest(line 37) - train model.
+29-08-2021 16:30:25 - [INFO] -  randomforest - (randomforest.py).randomforest(line 37) - train model.
+29-08-2021 16:30:25 - [INFO] -  randomforest - (randomforest.py).randomforest(line 37) - train model.
+29-08-2021 16:30:25 - [ERROR] -  randomforest - (randomforest.py).accuracy(line 57) - plot confusion matrix.
+NoneType: None
+29-08-2021 16:30:25 - [ERROR] -  randomforest - (randomforest.py).accuracy(line 57) - plot confusion matrix.
+NoneType: None
+29-08-2021 16:30:25 - [ERROR] -  randomforest - (randomforest.py).accuracy(line 57) - plot confusion matrix.
+NoneType: None
+29-08-2021 16:57:18 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 16:57:28 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 16:59:08 - [INFO] -  randomforest - (randomforest.py).splitdata(line 25) - splits data successfully.
+29-08-2021 17:02:12 - [INFO] -  randomforest - (randomforest.py).randomforest(line 37) - train model.
+29-08-2021 17:02:12 - [INFO] -  randomforest - (randomforest.py).randomforest(line 37) - train model.
+29-08-2021 17:02:18 - [INFO] -  randomforest - (randomforest.py).randomforest(line 37) - train model.
+29-08-2021 17:02:18 - [INFO] -  randomforest - (randomforest.py).randomforest(line 37) - train model.
+29-08-2021 17:02:18 - [INFO] -  randomforest - (randomforest.py).accuracy(line 57) - plot confusion matrix.
+29-08-2021 17:02:18 - [INFO] -  randomforest - (randomforest.py).accuracy(line 57) - plot confusion matrix.
+29-08-2021 17:11:00 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 17:11:00 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 17:11:13 - [INFO] -  randomforest - (randomforest.py).randomforest(line 37) - train model.
+29-08-2021 17:11:13 - [INFO] -  randomforest - (randomforest.py).randomforest(line 37) - train model.
+29-08-2021 17:11:13 - [INFO] -  randomforest - (randomforest.py).randomforest(line 37) - train model.
+29-08-2021 17:12:02 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+29-08-2021 17:12:04 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 17:12:06 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 17:12:06 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 17:12:09 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 17:12:09 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 17:12:09 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+29-08-2021 17:12:42 - [INFO] -  logistic - (logistic.py).splitdata(line 24) - splits data successfully.
+29-08-2021 17:12:42 - [INFO] -  logistic - (logistic.py).splitdata(line 24) - splits data successfully.
+29-08-2021 17:14:43 - [INFO] -  logistic - (logistic.py).logistic(line 36) - train model.
+29-08-2021 17:14:43 - [INFO] -  logistic - (logistic.py).logistic(line 36) - train model.
+29-08-2021 17:14:43 - [INFO] -  logistic - (logistic.py).logistic(line 36) - train model.
+29-08-2021 17:14:43 - [INFO] -  logistic - (logistic.py).logistic(line 36) - train model.
+29-08-2021 17:14:57 - [INFO] -  logistic - (logistic.py).logistic(line 36) - train model.
+29-08-2021 17:14:57 - [INFO] -  logistic - (logistic.py).logistic(line 36) - train model.
+29-08-2021 17:14:57 - [INFO] -  logistic - (logistic.py).logistic(line 36) - train model.
+29-08-2021 17:14:57 - [INFO] -  logistic - (logistic.py).logistic(line 36) - train model.
+29-08-2021 17:14:57 - [INFO] -  logistic - (logistic.py).accuracy(line 56) - plot confusion matrix.
+29-08-2021 17:14:57 - [INFO] -  logistic - (logistic.py).accuracy(line 56) - plot confusion matrix.
+29-08-2021 17:14:57 - [INFO] -  logistic - (logistic.py).accuracy(line 56) - plot confusion matrix.
+29-08-2021 17:14:57 - [INFO] -  logistic - (logistic.py).accuracy(line 56) - plot confusion matrix.
+>>>>>>> 899e44d379c8165eeb9bd9c8b5d7c8248f053459
+30-08-2021 16:43:09 - [INFO] -  file_read - (file_read.py).read_csv(line 21) - Csv file read from ../input/data.csv.
+30-08-2021 16:43:18 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+30-08-2021 16:43:50 - [INFO] -  logistic - (logistic.py).splitdata(line 24) - splits data successfully.
+30-08-2021 16:43:50 - [INFO] -  logistic - (logistic.py).splitdata(line 24) - splits data successfully.
+30-08-2021 16:44:06 - [INFO] -  logistic - (logistic.py).logistic(line 36) - train model.
+30-08-2021 16:44:06 - [INFO] -  logistic - (logistic.py).logistic(line 36) - train model.
+30-08-2021 16:44:06 - [INFO] -  logistic - (logistic.py).logistic(line 36) - train model.
+30-08-2021 16:44:20 - [INFO] -  logistic - (logistic.py).splitdata(line 24) - splits data successfully.
+30-08-2021 16:44:20 - [INFO] -  logistic - (logistic.py).splitdata(line 24) - splits data successfully.
+30-08-2021 16:44:20 - [INFO] -  logistic - (logistic.py).splitdata(line 24) - splits data successfully.
+30-08-2021 16:44:25 - [INFO] -  logistic - (logistic.py).logistic(line 36) - train model.
+30-08-2021 16:44:25 - [INFO] -  logistic - (logistic.py).logistic(line 36) - train model.
+30-08-2021 16:44:25 - [INFO] -  logistic - (logistic.py).logistic(line 36) - train model.
+30-08-2021 16:44:30 - [INFO] -  logistic - (logistic.py).logistic(line 36) - train model.
+30-08-2021 16:44:30 - [INFO] -  logistic - (logistic.py).logistic(line 36) - train model.
+30-08-2021 16:44:30 - [INFO] -  logistic - (logistic.py).logistic(line 36) - train model.
+30-08-2021 16:44:31 - [INFO] -  logistic - (logistic.py).accuracy(line 56) - plot confusion matrix.
+30-08-2021 16:44:31 - [INFO] -  logistic - (logistic.py).accuracy(line 56) - plot confusion matrix.
+30-08-2021 16:44:31 - [INFO] -  logistic - (logistic.py).accuracy(line 56) - plot confusion matrix.
