@@ -1186,3 +1186,8 @@ NoneType: None
 30-08-2021 16:44:31 - [INFO] -  logistic - (logistic.py).accuracy(line 56) - plot confusion matrix.
 30-08-2021 16:44:31 - [INFO] -  logistic - (logistic.py).accuracy(line 56) - plot confusion matrix.
 30-08-2021 16:44:31 - [INFO] -  logistic - (logistic.py).accuracy(line 56) - plot confusion matrix.
+30-08-2021 17:42:32 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+30-08-2021 17:44:55 - [INFO] -  preprocess - (preprocess.py).label_encode(line 34) - encodes label for non_numeric successfully
+30-08-2021 17:44:55 - [INFO] -  __main__ - (experiment.py).splitdata(line 53) - splits data successfully.
+30-08-2021 17:44:57 - [INFO] -  __main__ - (experiment.py).logistic(line 65) - train model.
+30-08-2021 17:44:59 - [INFO] -  __main__ - (experiment.py).accuracy(line 85) - plot confusion matrix.

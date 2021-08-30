@@ -18,7 +18,7 @@ jobs:
           REPO_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GDRIVE_CREDENTIALS_DATA: ${{ secrets.GDRIVE_CREDENTIALS_DATA }}
         run: |
-          dvc pull input/extracted.csv --run-cache
+          dvc pull input/data.csv --run-cache
           echo "## Data pulled from dvc remote"
       - name: train_model
         env:
