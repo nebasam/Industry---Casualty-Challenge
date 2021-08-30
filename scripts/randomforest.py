@@ -1,9 +1,42 @@
 from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestClassifier
-from sklearn.metrics import f1_score,confusion_matrix
+from sklearn.metrics import confusion_matrix
 from sklearn.metrics import accuracy_score
 import seaborn as sns
 from logger import Logger
+import mlflow
+import mlflow.sklearn
+import dvc.api
+from preprocess import check_numeric, label_encode
+import pandas as pd
+import matplotlib.pyplot as plt
+import os
+
+train_store_path = 'input/data.csv'
+repo = "https://github.com/nebasam/Industry---Casualty-Challenge/"
+
+version = "v1"
+
+train_store_url = dvc.api.get_url(
+    path=train_store_path,
+    repo=repo,
+    rev=version
+)
+
+data = pd.read_csv("../input/data.csv")
+
+print("DataFrame loaded")
+data, non_numeric_cols = check_numeric(data)
+df = label_encode(data, non_numeric_cols)
+y = data.diagnosis                          # M or B 
+list = ['Unnamed: 32','id','diagnosis']
+x = data.drop(list,axis = 1 )
+x.head()
+
+print("DataFrame preprocessed")
+
+
+mlflow.set_experiment('Breast cancer Causality')
 
 
 class RandomForest:
@@ -42,4 +75,8 @@ class RandomForest:
             self.logger.exception('plot confusion matrix.')
         except Exception:
             self.logger.exception('failed to do confusion matrix.')
-        
+if(__name__ == '__main__'):
+    
+    polygon = Polygon(((MINX, MINY), (MINX, MAXY), (MAXX, MAXY), (MAXX, MINY), (MINX, MINY)))
+    Fetch_data = FetchData(polygon=polygon, region="IA_FullState", epsg="4326") 
+    print(Fetch_data.get_data())    
