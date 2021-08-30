@@ -28,9 +28,9 @@ df = label_encode(data, non_numeric_cols)
 df = df[['radius_mean', 'texture_mean', 'perimeter_mean', 'area_mean',
        'smoothness_mean', 'compactness_mean', 'concavity_mean',
        'concave points_mean','diagnosis']]
-y = df.diagnosis                          # M or B 
-x = df.drop['diagnosis']
-
+y = df.diagnosis
+list = ['diagnosis']
+x = df.drop(list,axis = 1 )
 print("DataFrame preprocessed")
 
 
