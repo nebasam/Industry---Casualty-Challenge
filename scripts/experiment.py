@@ -10,18 +10,17 @@ import dvc.api
 from preprocess import check_numeric, label_encode
 import pandas as pd
 import os
-train_store_path = 'input/extracted.csv'
-repo = "../"
+train_store_path = 'input/data.csv'
+repo = "https://github.com/nebasam/Industry---Casualty-Challenge/"
 
 rev = "v2"
 
 train_store_url = dvc.api.get_url(
     path=train_store_path,
     repo=repo,
-    rev=rev
 )
 
-data = pd.read_csv("../input/extracted.csv")
+data = pd.read_csv("../input/data.csv")
 
 print("DataFrame loaded")
 data, non_numeric_cols = check_numeric(data)
